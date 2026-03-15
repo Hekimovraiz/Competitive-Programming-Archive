@@ -4,19 +4,21 @@ A collection of my solutions from various competitive programming platforms.
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Aizu | 3 |
-| AtCoder | 20 |
-| CSAcademy | 1 |
-| CSES | 18 |
+| Codeforces | 389 |
+| EOlymp | 346 |
+| AtCoder | 37 |
+| CSES | 28 |
 | CodeChef | 11 |
-| Codeforces | 362 |
-| DMOJ | 1 |
-| EOlymp | 275 |
 | HackerRank | 10 |
+| SPOJ | 10 |
+| Aizu | 3 |
+| UVA | 3 |
+| CSAcademy | 1 |
+| DMOJ | 1 |
 | QOJ | 1 |
-| SPOJ | 8 |
 | USACO | 1 |
-| UVA | 2 |
 | VNOJ | 1 |
 | Yosupo | 1 |
-| **Total** | **715** |
+| **Total** | **843** |
+
+Total problems solved: **843**

@@ -1,6 +1,6 @@
 # UVA
 
-Total problems solved: **3**
+Total unique problems solved: **3**
 
 ## Solutions List
 

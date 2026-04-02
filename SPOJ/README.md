@@ -1,6 +1,6 @@
 # SPOJ
 
-Total problems solved: **10**
+Total unique problems solved: **10**
 
 ## Solutions List
 

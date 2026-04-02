@@ -1,6 +1,6 @@
 # CodeChef
 
-Total problems solved: **11**
+Total unique problems solved: **11**
 
 ## Solutions List
 

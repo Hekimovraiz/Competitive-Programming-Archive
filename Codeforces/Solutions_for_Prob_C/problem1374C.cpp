@@ -1,0 +1,65 @@
+/*
+ * Problem: 1374C - Move Brackets
+ * Platform: Codeforces
+ * Link: https://codeforces.com/problemset/problem/1374/C
+ */
+
+#include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+#include <ext/pb_ds/hash_policy.hpp>
+
+#define int long long
+#define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
+#define all v.begin() , v.end()
+#define v_i for(int i = 0 ; i < n ; ++i)
+
+using namespace std;
+using namespace __gnu_pbds;
+
+template <typename T>
+using __indexed_multiset = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;
+template <typename T>
+using __indexed_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+
+#include <bits/stdc++.h>
+using namespace std;
+
+
+void solve()
+{
+    int n ; cin >> n;
+    string s ; cin >> s;
+    bool flag = true;
+
+    while(flag == true)
+    {
+        int cnt = 0;
+        for(int i = 0 ; i < (int) s.size() - 1 ; ++i)
+        {
+            if(s[i] == '(' && s[i + 1] == ')')
+            {
+                s = s.substr(0 , i) + s.substr(i + 2 , (int) s.size());
+                ++cnt;
+            }
+        }
+        if(cnt == 0)
+        {
+            flag = false;
+        }
+    }
+
+    cout << (int) s.size() / 2 << "\n";
+}
+
+
+signed main()
+{
+    Lek_Raiz
+    int t = 1;
+    cin >> t;
+    while(t--)
+    {
+        solve();
+    }
+}

@@ -1,6 +1,6 @@
 # Yosupo
 
-Total problems solved: **1**
+Total unique problems solved: **1**
 
 ## Solutions List
 

@@ -1,0 +1,48 @@
+/*
+ * Problem: 1549A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/problemset/problem/1549/A
+ */
+
+#include <bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+#include <ext/pb_ds/hash_policy.hpp>
+
+#define int long long
+#define Lek_Raiz                  \
+    ios_base::sync_with_stdio(0); \
+    cin.tie(nullptr);             \
+    cout.tie(nullptr)
+#define all(v) v.begin(), v.end()
+#define ll long long
+#define str string
+
+using namespace std;
+using namespace __gnu_pbds;
+
+template <typename T>
+using __indexed_multiset = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;
+template <typename T>
+using __indexed_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+
+const int sz = 2e4 + 3;
+vector<int> v = {11, 111, 1111, 11111, 111111, 1111111, 11111111, 111111111};
+
+void solve()
+{
+    int n ; cin >> n;
+    cout << 2 << " " << n - 1 << "\n";
+}
+
+signed main()
+{
+    Lek_Raiz;
+    /* sieve() */
+    int t = 1;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+}

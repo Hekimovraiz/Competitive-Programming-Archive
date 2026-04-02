@@ -1,9 +1,10 @@
 # DMOJ
 
-Total problems solved: **1**
+Total unique problems solved: **2**
 
 ## Solutions List
 
 | # | Problem ID | Link |
 |---|------------|------|
-| 1 | lis | [Link](https://dmoj.ca/problem/lis) |
+| 1 | ds3 | [Link](https://dmoj.ca/problem/ds3) |
+| 2 | lis | [Link](https://dmoj.ca/problem/lis) |

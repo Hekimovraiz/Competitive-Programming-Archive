@@ -1,6 +1,6 @@
 # AtCoder
 
-Total problems solved: **37**
+Total unique problems solved: **58**
 
 ## Solutions List
 
@@ -29,17 +29,38 @@ Total problems solved: **37**
 | 21 | abc447_b | [Link](https://atcoder.jp/contests/abc447/tasks/abc447_b) |
 | 22 | abc447_c | [Link](https://atcoder.jp/contests/abc447/tasks/abc447_c) |
 | 23 | abc447_d | [Link](https://atcoder.jp/contests/abc447/tasks/abc447_d) |
-| 24 | arc061_a | [Link](https://atcoder.jp/contests/arc061/tasks/arc061_a) |
-| 25 | arc087_a | [Link](https://atcoder.jp/contests/arc087/tasks/arc087_a) |
-| 26 | awc0001_a | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_a) |
-| 27 | awc0001_b | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_b) |
-| 28 | awc0001_c | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_c) |
-| 29 | awc0001_e | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_e) |
-| 30 | awc0002_a | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_a) |
-| 31 | awc0002_b | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_b) |
-| 32 | awc0002_c | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_c) |
-| 33 | awc0002_d | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_d) |
-| 34 | awc0002_e | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_e) |
-| 35 | awc0016_a | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_a) |
-| 36 | awc0016_b | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_b) |
-| 37 | awc0016_c | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_c) |
+| 24 | abc450_a | [Link](https://atcoder.jp/contests/abc450/tasks/abc450_a) |
+| 25 | abc450_b | [Link](https://atcoder.jp/contests/abc450/tasks/abc450_b) |
+| 26 | abc450_c | [Link](https://atcoder.jp/contests/abc450/tasks/abc450_c) |
+| 27 | arc061_a | [Link](https://atcoder.jp/contests/arc061/tasks/arc061_a) |
+| 28 | arc087_a | [Link](https://atcoder.jp/contests/arc087/tasks/arc087_a) |
+| 29 | awc0001_a | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_a) |
+| 30 | awc0001_b | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_b) |
+| 31 | awc0001_c | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_c) |
+| 32 | awc0001_e | [Link](https://atcoder.jp/contests/awc0001/tasks/awc0001_e) |
+| 33 | awc0002_a | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_a) |
+| 34 | awc0002_b | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_b) |
+| 35 | awc0002_c | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_c) |
+| 36 | awc0002_d | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_d) |
+| 37 | awc0002_e | [Link](https://atcoder.jp/contests/awc0002/tasks/awc0002_e) |
+| 38 | awc0016_a | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_a) |
+| 39 | awc0016_b | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_b) |
+| 40 | awc0016_c | [Link](https://atcoder.jp/contests/awc0016/tasks/awc0016_c) |
+| 41 | awc0019_a | [Link](https://atcoder.jp/contests/awc0019/tasks/awc0019_a) |
+| 42 | awc0019_b | [Link](https://atcoder.jp/contests/awc0019/tasks/awc0019_b) |
+| 43 | awc0019_c | [Link](https://atcoder.jp/contests/awc0019/tasks/awc0019_c) |
+| 44 | awc0019_d | [Link](https://atcoder.jp/contests/awc0019/tasks/awc0019_d) |
+| 45 | awc0020_a | [Link](https://atcoder.jp/contests/awc0020/tasks/awc0020_a) |
+| 46 | awc0020_b | [Link](https://atcoder.jp/contests/awc0020/tasks/awc0020_b) |
+| 47 | awc0020_c | [Link](https://atcoder.jp/contests/awc0020/tasks/awc0020_c) |
+| 48 | awc0020_d | [Link](https://atcoder.jp/contests/awc0020/tasks/awc0020_d) |
+| 49 | awc0020_e | [Link](https://atcoder.jp/contests/awc0020/tasks/awc0020_e) |
+| 50 | awc0021_a | [Link](https://atcoder.jp/contests/awc0021/tasks/awc0021_a) |
+| 51 | awc0021_b | [Link](https://atcoder.jp/contests/awc0021/tasks/awc0021_b) |
+| 52 | awc0021_c | [Link](https://atcoder.jp/contests/awc0021/tasks/awc0021_c) |
+| 53 | awc0031_b | [Link](https://atcoder.jp/contests/awc0031/tasks/awc0031_b) |
+| 54 | dp_a | [Link](https://atcoder.jp/contests/dp/tasks/dp_a) |
+| 55 | dp_b | [Link](https://atcoder.jp/contests/dp/tasks/dp_b) |
+| 56 | dp_c | [Link](https://atcoder.jp/contests/dp/tasks/dp_c) |
+| 57 | dp_d | [Link](https://atcoder.jp/contests/dp/tasks/dp_d) |
+| 58 | dp_h | [Link](https://atcoder.jp/contests/dp/tasks/dp_h) |

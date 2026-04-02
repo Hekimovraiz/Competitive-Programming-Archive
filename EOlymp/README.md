@@ -1,6 +1,6 @@
 # EOlymp
 
-Total problems solved: **346**
+Total unique problems solved: **346**
 
 ## Solutions List
 

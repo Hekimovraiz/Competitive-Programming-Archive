@@ -27,6 +27,12 @@ Welcome to my personal archive of solved problems across various competitive pro
 
 ---
 
+## 🛠️ My Template
+
+I use a standard C++ template for all my competitive programming solutions. You can find it here: [template.cpp](./template.cpp)
+
+---
+
 ## 🔗 Profiles
 
 ### 🟠 Main Platforms

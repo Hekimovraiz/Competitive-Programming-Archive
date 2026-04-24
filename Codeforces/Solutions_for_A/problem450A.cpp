@@ -1,9 +1,3 @@
-/*
- * Problem: 450A - Jzzhu and Children
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/450/problem/A
- */
-
 #include <bits/stdc++.h>
 using namespace std;
  

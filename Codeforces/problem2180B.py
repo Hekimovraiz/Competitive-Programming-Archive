@@ -1,9 +1,3 @@
-/*
- * Problem: 2180B - Ashmal
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2180/problem/B
- */
-
 import sys
  
 def main():

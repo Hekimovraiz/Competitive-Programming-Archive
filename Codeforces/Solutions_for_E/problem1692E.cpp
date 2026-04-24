@@ -1,9 +1,3 @@
-/*
- * Problem: 1692E - Binary Deque
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1692/problem/E
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

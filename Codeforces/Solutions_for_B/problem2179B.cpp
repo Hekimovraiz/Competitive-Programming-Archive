@@ -1,9 +1,3 @@
-/*
- * Problem: 2179B - Blackslex and Showering
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2179/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

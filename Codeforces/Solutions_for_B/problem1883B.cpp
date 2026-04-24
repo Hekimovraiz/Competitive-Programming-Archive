@@ -1,9 +1,3 @@
-/*
- * Problem: 1883B - Chemistry
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1883/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

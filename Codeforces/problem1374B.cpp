@@ -1,9 +1,3 @@
-/*
- * Problem: 1374B - Multiply by 2, divide by 6
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1374/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

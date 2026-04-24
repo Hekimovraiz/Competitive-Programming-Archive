@@ -1,9 +1,3 @@
-/*
- * Problem: 1931D - Divisible Pairs
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1931/problem/D
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

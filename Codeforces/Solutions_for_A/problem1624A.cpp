@@ -1,9 +1,3 @@
-/*
- * Problem: 1624A - Plus One on the Subset
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1624/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

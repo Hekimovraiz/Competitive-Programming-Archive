@@ -1,9 +1,3 @@
-/*
- * Problem: 1690D - Black and White Stripe
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1690/problem/D
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

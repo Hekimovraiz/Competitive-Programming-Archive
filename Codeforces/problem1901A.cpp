@@ -1,9 +1,3 @@
-/*
- * Problem: 1901A - Line Trip
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1901/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 1399B - Gifts Fixing
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1399/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

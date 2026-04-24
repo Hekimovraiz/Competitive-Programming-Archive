@@ -1,9 +1,3 @@
-/*
- * Problem: 580A - Kefa and First Steps
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/580/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

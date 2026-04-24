@@ -1,9 +1,3 @@
-/*
- * Problem: 1353A - Most Unstable Array
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1353/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

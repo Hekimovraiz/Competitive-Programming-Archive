@@ -1,9 +1,3 @@
-/*
- * Problem: 472A - Design Tutorial: Learn from Math
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/472/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

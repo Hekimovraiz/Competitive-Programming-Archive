@@ -1,9 +1,3 @@
-/*
- * Problem: 1873A - Short Sort
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1873/problem/A
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;

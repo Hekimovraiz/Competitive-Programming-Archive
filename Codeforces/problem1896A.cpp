@@ -1,9 +1,3 @@
-/*
- * Problem: 1896A - Jagged Swaps
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1896/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

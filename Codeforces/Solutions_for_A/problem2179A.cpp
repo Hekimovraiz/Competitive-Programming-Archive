@@ -1,9 +1,3 @@
-/*
- * Problem: 2179A - Blackslex and Password
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2179/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 1476A - K-divisible Sum
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1476/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

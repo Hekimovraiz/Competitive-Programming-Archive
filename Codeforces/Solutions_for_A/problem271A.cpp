@@ -1,9 +1,3 @@
-/*
- * Problem: 271A - Beautiful Year
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/271/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

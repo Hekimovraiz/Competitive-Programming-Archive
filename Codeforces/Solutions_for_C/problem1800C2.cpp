@@ -1,9 +1,3 @@
-/*
- * Problem: 1800C2 - Powering the Hero (hard version)
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1800/problem/C2
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

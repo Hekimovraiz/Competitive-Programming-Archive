@@ -1,9 +1,3 @@
-/*
- * Problem: 270A - Fancy Fence
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/270/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

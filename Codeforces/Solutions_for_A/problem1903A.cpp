@@ -1,9 +1,3 @@
-/*
- * Problem: 1903A - Halloumi Boxes
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1903/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

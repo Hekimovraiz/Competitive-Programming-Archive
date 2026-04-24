@@ -1,9 +1,3 @@
-/*
- * Problem: 1294A - Collecting Coins
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1294/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 71A - Way Too Long Words
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/71/problem/A
- */
-
 #include <bits/stdc++.h>
 using namespace std;
  

@@ -1,9 +1,3 @@
-/*
- * Problem: 2211A - Antimedian Deletion
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2211/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

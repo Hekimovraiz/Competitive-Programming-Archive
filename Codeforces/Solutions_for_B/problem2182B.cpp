@@ -1,9 +1,3 @@
-/*
- * Problem: 2182B - New Year Cake
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2182/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

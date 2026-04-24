@@ -1,9 +1,3 @@
-/*
- * Problem: 2191A - Array Coloring
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2191/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

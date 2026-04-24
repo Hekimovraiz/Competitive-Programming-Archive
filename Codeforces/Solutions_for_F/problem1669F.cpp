@@ -1,9 +1,3 @@
-/*
- * Problem: 1669F - Eating Candies
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1669/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 1857F - Sum and Product
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1857/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

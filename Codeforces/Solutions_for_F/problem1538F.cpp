@@ -1,9 +1,3 @@
-/*
- * Problem: 1538F - Interesting Function
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1538/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

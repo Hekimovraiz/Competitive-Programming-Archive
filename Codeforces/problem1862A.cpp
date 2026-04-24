@@ -1,9 +1,3 @@
-/*
- * Problem: 1862A - Gift Carpet
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1862/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

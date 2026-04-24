@@ -1,9 +1,3 @@
-/*
- * Problem: 432A - Choosing Teams
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/432/problem/A
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;

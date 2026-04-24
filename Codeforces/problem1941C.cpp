@@ -1,9 +1,3 @@
-/*
- * Problem: 1941C - Rudolf and the Ugly String
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1941/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

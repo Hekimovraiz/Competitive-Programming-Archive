@@ -1,9 +1,3 @@
-/*
- * Problem: 1669B - Triple
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1669/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

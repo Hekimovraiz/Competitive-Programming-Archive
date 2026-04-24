@@ -1,9 +1,3 @@
-/*
- * Problem: 2178B - Impost or Sus
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2178/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

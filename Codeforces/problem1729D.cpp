@@ -1,9 +1,3 @@
-/*
- * Problem: 1729D - Friends and the Restaurant
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1729/problem/D
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

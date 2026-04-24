@@ -1,9 +1,3 @@
-/*
- * Problem: 1374C - Move Brackets
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1374/problem/C
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 320A - Magic Numbers
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/320/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

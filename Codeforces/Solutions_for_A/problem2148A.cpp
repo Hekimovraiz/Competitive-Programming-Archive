@@ -1,9 +1,3 @@
-/*
- * Problem: 2148A - Sublime Sequence
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2148/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

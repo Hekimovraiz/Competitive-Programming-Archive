@@ -1,9 +1,3 @@
-/*
- * Problem: 2098A - Vadim's Collection
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2098/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

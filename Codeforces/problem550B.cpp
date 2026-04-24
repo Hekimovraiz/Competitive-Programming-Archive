@@ -1,9 +1,3 @@
-/*
- * Problem: 550B - Preparing Olympiad
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/550/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

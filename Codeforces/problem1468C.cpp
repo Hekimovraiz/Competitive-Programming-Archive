@@ -1,9 +1,3 @@
-/*
- * Problem: 1468C - Berpizza
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1468/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

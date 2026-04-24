@@ -1,9 +1,3 @@
-/*
- * Problem: 510A - Fox And Snake
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/510/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

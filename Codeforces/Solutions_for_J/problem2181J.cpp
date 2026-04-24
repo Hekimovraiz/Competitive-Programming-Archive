@@ -1,9 +1,3 @@
-/*
- * Problem: 2181J - Jinx or Jackpot
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2181/problem/J
- */
-
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>
 using namespace std;

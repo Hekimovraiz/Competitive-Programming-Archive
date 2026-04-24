@@ -1,9 +1,3 @@
-/*
- * Problem: 37A - Towers
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/37/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

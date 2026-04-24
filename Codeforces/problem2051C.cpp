@@ -1,9 +1,3 @@
-/*
- * Problem: 2051C - Preparing for the Exam
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2051/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

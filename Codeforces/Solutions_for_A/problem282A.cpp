@@ -1,9 +1,3 @@
-/*
- * Problem: 282A - Bit++
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/282/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

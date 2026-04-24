@@ -1,9 +1,3 @@
-/*
- * Problem: 734A - Anton and Danik
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/734/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

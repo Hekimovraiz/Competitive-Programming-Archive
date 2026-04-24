@@ -1,9 +1,3 @@
-/*
- * Problem: 318A - Even Odds
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/318/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

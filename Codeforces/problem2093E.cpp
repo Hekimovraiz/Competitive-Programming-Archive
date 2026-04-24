@@ -1,9 +1,3 @@
-/*
- * Problem: 2093E - Min Max MEX
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2093/problem/E
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

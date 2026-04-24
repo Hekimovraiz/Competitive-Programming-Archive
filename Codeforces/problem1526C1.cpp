@@ -1,9 +1,3 @@
-/*
- * Problem: 1526C1 - Potions (Easy Version)
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1526/problem/C1
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

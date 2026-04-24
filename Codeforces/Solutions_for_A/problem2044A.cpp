@@ -1,9 +1,3 @@
-/*
- * Problem: 2044A - Easy Problem
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2044/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

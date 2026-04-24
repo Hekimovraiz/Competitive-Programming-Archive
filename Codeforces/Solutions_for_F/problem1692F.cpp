@@ -1,9 +1,3 @@
-/*
- * Problem: 1692F - 3SUM
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1692/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

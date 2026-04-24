@@ -1,9 +1,3 @@
-/*
- * Problem: 660C - Hard Process
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/660/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 2178C - First or Second
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2178/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

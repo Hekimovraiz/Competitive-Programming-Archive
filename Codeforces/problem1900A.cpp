@@ -1,9 +1,3 @@
-/*
- * Problem: 1900A - Cover in Water
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1900/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

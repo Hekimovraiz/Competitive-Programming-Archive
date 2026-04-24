@@ -1,9 +1,3 @@
-/*
- * Problem: 2181F - Fragmented Nim
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2181/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

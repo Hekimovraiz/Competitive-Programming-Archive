@@ -1,9 +1,3 @@
-/*
- * Problem: 304A - Pythagorean Theorem II
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/304/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

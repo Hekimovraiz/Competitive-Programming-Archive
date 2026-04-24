@@ -1,9 +1,3 @@
-/*
- * Problem: 486A - Calculating Function
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/486/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

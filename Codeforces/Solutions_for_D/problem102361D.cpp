@@ -1,9 +1,3 @@
-/*
- * Problem: 102361D - Decimal
- * Platform: Codeforces
- * Link: https://codeforces.com/gym/102361/problem/D
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;

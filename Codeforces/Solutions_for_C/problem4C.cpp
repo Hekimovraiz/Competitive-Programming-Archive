@@ -1,9 +1,3 @@
-/*
- * Problem: 4C - Registration System
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/4/problem/C
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 //#define int long long

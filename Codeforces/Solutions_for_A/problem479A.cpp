@@ -1,9 +1,3 @@
-/*
- * Problem: 479A - Expression
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/479/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

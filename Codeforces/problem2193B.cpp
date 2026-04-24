@@ -1,9 +1,3 @@
-/*
- * Problem: 2193B - Reverse a Permutation
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2193/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

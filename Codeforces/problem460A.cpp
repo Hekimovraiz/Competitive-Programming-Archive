@@ -1,9 +1,3 @@
-/*
- * Problem: 460A - Vasya and Socks
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/460/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

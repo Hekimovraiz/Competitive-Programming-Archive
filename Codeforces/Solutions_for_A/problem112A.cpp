@@ -1,9 +1,3 @@
-/*
- * Problem: 112A - Petya and Strings
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/112/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

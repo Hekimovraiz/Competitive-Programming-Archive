@@ -1,9 +1,3 @@
-/*
- * Problem: 2180A - Carnival Wheel
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2180/problem/A
- */
-
 #include <bits/stdc++.h>
 using namespace std;
 int main() {

@@ -1,9 +1,3 @@
-/*
- * Problem: 61E - Enemy is weak
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/61/problem/E
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

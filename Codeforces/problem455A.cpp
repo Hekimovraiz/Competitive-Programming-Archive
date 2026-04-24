@@ -1,9 +1,3 @@
-/*
- * Problem: 455A - Boredom
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/455/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

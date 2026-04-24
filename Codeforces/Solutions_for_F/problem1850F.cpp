@@ -1,9 +1,3 @@
-/*
- * Problem: 1850F - We Were Both Children
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1850/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

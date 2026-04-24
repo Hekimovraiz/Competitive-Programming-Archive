@@ -1,9 +1,3 @@
-/*
- * Problem: 110A - Nearly Lucky Number
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/110/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

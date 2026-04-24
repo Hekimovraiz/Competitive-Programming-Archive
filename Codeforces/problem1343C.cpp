@@ -1,9 +1,3 @@
-/*
- * Problem: 1343C - Alternating Subsequence
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1343/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 266A - Stones on the Table
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/266/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

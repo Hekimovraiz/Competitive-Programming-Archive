@@ -1,9 +1,3 @@
-/*
- * Problem: 1006B - Polycarp's Practice
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1006/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

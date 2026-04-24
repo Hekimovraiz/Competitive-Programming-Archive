@@ -1,9 +1,3 @@
-/*
- * Problem: 1335B - Construct the String
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1335/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

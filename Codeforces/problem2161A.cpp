@@ -1,9 +1,3 @@
-/*
- * Problem: 2161A - Round Trip
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2161/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

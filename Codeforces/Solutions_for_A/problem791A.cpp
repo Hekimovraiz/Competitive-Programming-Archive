@@ -1,9 +1,3 @@
-/*
- * Problem: 791A - Bear and Big Brother
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/791/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

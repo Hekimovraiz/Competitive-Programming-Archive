@@ -1,9 +1,3 @@
-/*
- * Problem: 2044C - Hard Problem
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2044/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

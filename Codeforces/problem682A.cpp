@@ -1,9 +1,3 @@
-/*
- * Problem: 682A - Alyona and Numbers
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/682/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

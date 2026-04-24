@@ -1,9 +1,3 @@
-/*
- * Problem: 758A - Holiday Of Equality
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/758/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

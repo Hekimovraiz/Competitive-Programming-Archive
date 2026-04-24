@@ -1,9 +1,3 @@
-/*
- * Problem: 266B - Queue at the School
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/266/problem/B
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

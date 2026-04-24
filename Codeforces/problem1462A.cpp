@@ -1,9 +1,3 @@
-/*
- * Problem: 1462A - Favorite Sequence
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1462/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

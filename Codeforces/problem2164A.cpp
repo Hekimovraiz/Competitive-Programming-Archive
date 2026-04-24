@@ -1,9 +1,3 @@
-/*
- * Problem: 2164A - Sequence Game
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2164/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 1470A - Strange Birthday Party
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1470/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

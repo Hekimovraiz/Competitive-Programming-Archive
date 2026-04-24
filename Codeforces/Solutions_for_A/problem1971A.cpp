@@ -1,9 +1,3 @@
-/*
- * Problem: 1971A - My First Sorting Problem
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1971/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

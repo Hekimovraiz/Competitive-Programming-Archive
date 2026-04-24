@@ -1,9 +1,3 @@
-/*
- * Problem: 977A - Wrong Subtraction
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/977/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

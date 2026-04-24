@@ -1,9 +1,3 @@
-/*
- * Problem: 1006C - Three Parts of the Array
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1006/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 2195A - Sieve of Erato67henes
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2195/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

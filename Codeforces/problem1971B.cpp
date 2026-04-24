@@ -1,9 +1,3 @@
-/*
- * Problem: 1971B - Different String
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1971/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

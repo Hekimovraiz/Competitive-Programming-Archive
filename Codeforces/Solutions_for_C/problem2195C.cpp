@@ -1,9 +1,3 @@
-/*
- * Problem: 2195C - Dice Roll Sequence
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2195/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

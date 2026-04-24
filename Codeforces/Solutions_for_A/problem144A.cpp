@@ -1,9 +1,3 @@
-/*
- * Problem: 144A - Arrival of the General
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/144/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

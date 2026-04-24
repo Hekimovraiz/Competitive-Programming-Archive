@@ -1,9 +1,3 @@
-/*
- * Problem: 2000B - Seating in a Bus
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2000/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

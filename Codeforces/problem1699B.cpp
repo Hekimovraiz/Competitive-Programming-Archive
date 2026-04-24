@@ -1,9 +1,3 @@
-/*
- * Problem: 1699B - Almost Ternary Matrix
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1699/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

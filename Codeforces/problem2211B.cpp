@@ -1,9 +1,3 @@
-/*
- * Problem: 2211B - Mickey Mouse Constructive
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2211/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 1624B - Make AP
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1624/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

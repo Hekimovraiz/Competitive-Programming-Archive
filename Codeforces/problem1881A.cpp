@@ -1,9 +1,3 @@
-/*
- * Problem: 1881A - Don't Try to Count
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1881/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

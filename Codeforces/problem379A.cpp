@@ -1,9 +1,3 @@
-/*
- * Problem: 379A - New Year Candles
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/379/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 2098B - Sasha and the Apartment Purchase
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2098/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

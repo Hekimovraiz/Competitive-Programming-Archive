@@ -1,9 +1,3 @@
-/*
- * Problem: 1526B - I Hate 1111
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1526/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

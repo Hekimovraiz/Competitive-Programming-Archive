@@ -1,9 +1,3 @@
-/*
- * Problem: 2117A - False Alarm
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2117/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

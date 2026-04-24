@@ -1,9 +1,3 @@
-/*
- * Problem: 2009A - Minimize!
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2009/problem/A
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;

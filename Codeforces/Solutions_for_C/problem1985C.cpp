@@ -1,9 +1,3 @@
-/*
- * Problem: 1985C - Good Prefixes
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1985/problem/C
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

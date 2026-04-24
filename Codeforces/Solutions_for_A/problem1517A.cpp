@@ -1,9 +1,3 @@
-/*
- * Problem: 1517A - Sum of 2050
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1517/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

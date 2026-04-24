@@ -1,9 +1,3 @@
-/*
- * Problem: 2200C - Specialty String
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2200/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

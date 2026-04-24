@@ -1,9 +1,3 @@
-/*
- * Problem: 1030A - In Search of an Easy Problem
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1030/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,9 +1,3 @@
-/*
- * Problem: 459B - Pashmak and Flowers
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/459/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

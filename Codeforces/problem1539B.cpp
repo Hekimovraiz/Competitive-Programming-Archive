@@ -1,9 +1,3 @@
-/*
- * Problem: 1539B - Love Song
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1539/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

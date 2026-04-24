@@ -1,9 +1,3 @@
-/*
- * Problem: 2145C - Monocarp's String
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2145/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

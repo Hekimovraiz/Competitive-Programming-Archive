@@ -1,9 +1,3 @@
-/*
- * Problem: 492A - Vanya and Cubes
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/492/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

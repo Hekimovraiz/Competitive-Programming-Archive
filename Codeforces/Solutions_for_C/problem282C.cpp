@@ -1,9 +1,3 @@
-/*
- * Problem: 282C - XOR and OR
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/282/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

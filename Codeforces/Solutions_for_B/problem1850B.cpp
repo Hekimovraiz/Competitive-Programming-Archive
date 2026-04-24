@@ -1,9 +1,3 @@
-/*
- * Problem: 1850B - Ten Words of Wisdom
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1850/problem/B
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

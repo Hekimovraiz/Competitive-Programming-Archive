@@ -1,9 +1,3 @@
-/*
- * Problem: 1703F - Yet Another Problem About Pairs Satisfying an Inequality
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1703/problem/F
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

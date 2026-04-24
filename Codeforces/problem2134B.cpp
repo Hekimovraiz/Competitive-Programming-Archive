@@ -1,9 +1,3 @@
-/*
- * Problem: 2134B - Add 0 or K
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2134/problem/B
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

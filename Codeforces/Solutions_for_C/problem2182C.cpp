@@ -1,9 +1,3 @@
-/*
- * Problem: 2182C - Production of Snowmen
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/2182/problem/C
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

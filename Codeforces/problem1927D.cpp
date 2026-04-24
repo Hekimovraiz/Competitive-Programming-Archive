@@ -1,9 +1,3 @@
-/*
- * Problem: 1927D - Find the Different Ones!
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1927/problem/D
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

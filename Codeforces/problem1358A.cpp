@@ -1,9 +1,3 @@
-/*
- * Problem: 1358A - Park Lighting
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1358/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

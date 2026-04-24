@@ -1,9 +1,3 @@
-/*
- * Problem: 579A - Raising Bacteria
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/579/problem/A
- */
-
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

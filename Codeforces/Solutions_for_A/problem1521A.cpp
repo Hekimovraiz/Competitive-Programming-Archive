@@ -1,9 +1,3 @@
-/*
- * Problem: 1521A - Nastia and Nearly Good Numbers
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/1521/problem/A
- */
-
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

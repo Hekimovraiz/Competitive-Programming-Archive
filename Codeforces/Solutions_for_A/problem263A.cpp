@@ -1,9 +1,3 @@
-/*
- * Problem: 263A - Beautiful Matrix
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/263/problem/A
- */
-
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

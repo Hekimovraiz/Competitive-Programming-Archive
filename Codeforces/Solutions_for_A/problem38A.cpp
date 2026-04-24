@@ -1,9 +1,3 @@
-/*
- * Problem: 38A - Army
- * Platform: Codeforces
- * Link: https://codeforces.com/contest/38/problem/A
- */
-
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 #define int long long

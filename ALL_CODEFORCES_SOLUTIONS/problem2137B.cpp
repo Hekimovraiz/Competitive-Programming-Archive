@@ -1,6 +1,8 @@
-// Problem ID: 2137B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2137/problem/B
+/*
+ * Problem: 2137B - Fun Permutation
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2137/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

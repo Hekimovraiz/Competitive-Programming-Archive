@@ -1,6 +1,8 @@
-// Problem ID: 1791C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1791/problem/C
+/*
+ * Problem: 1791C - Prepend and Append
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1791/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

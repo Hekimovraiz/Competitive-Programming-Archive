@@ -1,6 +1,8 @@
-// Problem ID: 268A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/268/problem/A
+/*
+ * Problem: 268A - Games
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/268/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

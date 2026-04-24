@@ -1,6 +1,8 @@
-// Problem ID: 1579A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1579/problem/A
+/*
+ * Problem: 1579A - Casimir's String Solitaire
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1579/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

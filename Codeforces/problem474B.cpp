@@ -1,6 +1,8 @@
-// Problem ID: 474B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/474/problem/B
+/*
+ * Problem: 474B - Worms
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/474/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

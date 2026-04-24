@@ -1,6 +1,8 @@
-// Problem ID: 1901A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1901/problem/A
+/*
+ * Problem: 1901A - Line Trip
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1901/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

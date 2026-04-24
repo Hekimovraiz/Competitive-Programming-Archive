@@ -1,6 +1,8 @@
-// Problem ID: 1311A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1311/problem/A
+/*
+ * Problem: 1311A - Add Odd or Subtract Even
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1311/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

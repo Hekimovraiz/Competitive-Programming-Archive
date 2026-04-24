@@ -1,6 +1,8 @@
-// Problem ID: 2091C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2091/problem/C
+/*
+ * Problem: 2091C - Combination Lock
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2091/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

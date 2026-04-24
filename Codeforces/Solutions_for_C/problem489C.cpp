@@ -1,6 +1,8 @@
-// Problem ID: 489C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/489/problem/C
+/*
+ * Problem: 489C - Given Length and Sum of Digits...
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/489/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

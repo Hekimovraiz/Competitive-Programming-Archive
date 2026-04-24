@@ -1,6 +1,8 @@
-// Problem ID: 2164A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2164/problem/A
+/*
+ * Problem: 2164A - Sequence Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2164/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1373B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1373/problem/B
+/*
+ * Problem: 1373B - 01 Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1373/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

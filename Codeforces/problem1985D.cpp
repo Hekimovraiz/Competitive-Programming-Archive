@@ -1,6 +1,8 @@
-// Problem ID: 1985D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1985/problem/D
+/*
+ * Problem: 1985D - Manhattan Circle
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1985/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

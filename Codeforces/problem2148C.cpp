@@ -1,6 +1,8 @@
-// Problem ID: 2148C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2148/problem/C
+/*
+ * Problem: 2148C - Pacer
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2148/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

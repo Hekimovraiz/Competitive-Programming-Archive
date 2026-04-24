@@ -1,6 +1,8 @@
-// Problem ID: 1858A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1858/problem/A
+/*
+ * Problem: 1858A - Buttons
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1858/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

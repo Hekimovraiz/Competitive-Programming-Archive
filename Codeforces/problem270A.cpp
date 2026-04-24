@@ -1,6 +1,8 @@
-// Problem ID: 270A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/270/problem/A
+/*
+ * Problem: 270A - Fancy Fence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/270/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

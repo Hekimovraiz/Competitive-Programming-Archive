@@ -1,6 +1,8 @@
-// Problem ID: 1006B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1006/problem/B
+/*
+ * Problem: 1006B - Polycarp's Practice
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1006/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

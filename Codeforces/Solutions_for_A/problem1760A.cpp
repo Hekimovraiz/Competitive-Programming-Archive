@@ -1,6 +1,8 @@
-// Problem ID: 1760A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1760/problem/A
+/*
+ * Problem: 1760A - Medium Number
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1760/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

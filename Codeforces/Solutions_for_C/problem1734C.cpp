@@ -1,6 +1,8 @@
-// Problem ID: 1734C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1734/problem/C
+/*
+ * Problem: 1734C - Removing Smallest Multiples
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1734/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

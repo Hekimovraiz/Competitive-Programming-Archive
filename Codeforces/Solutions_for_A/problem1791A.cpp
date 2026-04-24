@@ -1,6 +1,8 @@
-// Problem ID: 1791A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1791/problem/A
+/*
+ * Problem: 1791A - Codeforces Checking
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1791/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

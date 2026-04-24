@@ -1,6 +1,8 @@
-// Problem ID: 1722A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1722/problem/A
+/*
+ * Problem: 1722A - Spell Check
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1722/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

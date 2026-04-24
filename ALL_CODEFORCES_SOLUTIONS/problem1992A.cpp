@@ -1,6 +1,8 @@
-// Problem ID: 1992A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1992/problem/A
+/*
+ * Problem: 1992A - Only Pluses
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1992/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1325A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1325/problem/A
+/*
+ * Problem: 1325A - EhAb AnD gCd
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1325/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

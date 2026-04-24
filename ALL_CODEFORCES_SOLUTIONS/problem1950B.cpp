@@ -1,6 +1,8 @@
-// Problem ID: 1950B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1950/problem/B
+/*
+ * Problem: 1950B - Upscaling
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1950/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

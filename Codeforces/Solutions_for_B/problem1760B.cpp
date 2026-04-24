@@ -1,6 +1,8 @@
-// Problem ID: 1760B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1760/problem/B
+/*
+ * Problem: 1760B - Atilla's Favorite Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1760/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

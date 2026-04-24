@@ -1,6 +1,8 @@
-// Problem ID: 2176C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2176/problem/C
+/*
+ * Problem: 2176C - Odd Process
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2176/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

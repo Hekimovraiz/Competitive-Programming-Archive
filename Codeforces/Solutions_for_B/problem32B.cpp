@@ -1,6 +1,8 @@
-// Problem ID: 32B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/32/problem/B
+/*
+ * Problem: 32B - Borze
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/32/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

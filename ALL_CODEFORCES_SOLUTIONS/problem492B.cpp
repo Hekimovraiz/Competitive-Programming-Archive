@@ -1,6 +1,8 @@
-// Problem ID: 492B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/492/problem/B
+/*
+ * Problem: 492B - Vanya and Lanterns
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/492/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

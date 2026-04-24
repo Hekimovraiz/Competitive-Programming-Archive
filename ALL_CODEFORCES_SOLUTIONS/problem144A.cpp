@@ -1,6 +1,8 @@
-// Problem ID: 144A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/144/problem/A
+/*
+ * Problem: 144A - Arrival of the General
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/144/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

@@ -1,6 +1,8 @@
-// Problem ID: 1042D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1042/problem/D
+/*
+ * Problem: 1042D - Petya and Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1042/problem/D
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

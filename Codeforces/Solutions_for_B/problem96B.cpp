@@ -1,6 +1,8 @@
-// Problem ID: 96B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/96/problem/B
+/*
+ * Problem: 96B - Lucky Numbers (easy)
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/96/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

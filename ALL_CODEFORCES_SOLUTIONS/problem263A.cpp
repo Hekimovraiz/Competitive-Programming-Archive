@@ -1,6 +1,8 @@
-// Problem ID: 263A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/263/problem/A
+/*
+ * Problem: 263A - Beautiful Matrix
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/263/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

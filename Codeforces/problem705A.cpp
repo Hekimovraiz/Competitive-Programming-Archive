@@ -1,6 +1,8 @@
-// Problem ID: 705A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/705/problem/A
+/*
+ * Problem: 705A - Hulk
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/705/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

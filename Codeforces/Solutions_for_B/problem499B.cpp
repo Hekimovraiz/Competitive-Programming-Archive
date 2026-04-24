@@ -1,6 +1,8 @@
-// Problem ID: 499B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/499/problem/B
+/*
+ * Problem: 499B - Lecture
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/499/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

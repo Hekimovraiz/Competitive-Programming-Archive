@@ -1,6 +1,8 @@
-// Problem ID: 37A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/37/problem/A
+/*
+ * Problem: 37A - Towers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/37/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

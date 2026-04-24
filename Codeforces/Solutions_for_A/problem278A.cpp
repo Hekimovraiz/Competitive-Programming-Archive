@@ -1,6 +1,8 @@
-// Problem ID: 278A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/278/problem/A
+/*
+ * Problem: 278A - Circle Line
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/278/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

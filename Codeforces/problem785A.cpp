@@ -1,6 +1,8 @@
-// Problem ID: 785A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/785/problem/A
+/*
+ * Problem: 785A - Anton and Polyhedrons
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/785/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

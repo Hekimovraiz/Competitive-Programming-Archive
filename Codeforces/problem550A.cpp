@@ -1,6 +1,8 @@
-// Problem ID: 550A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/550/problem/A
+/*
+ * Problem: 550A - Two Substrings
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/550/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

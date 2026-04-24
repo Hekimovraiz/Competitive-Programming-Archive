@@ -1,6 +1,8 @@
-// Problem ID: 1468C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1468/problem/C
+/*
+ * Problem: 1468C - Berpizza
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1468/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

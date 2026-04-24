@@ -1,6 +1,8 @@
-// Problem ID: 1097B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1097/problem/B
+/*
+ * Problem: 1097B - Petr and a Combination Lock
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1097/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

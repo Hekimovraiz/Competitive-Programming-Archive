@@ -1,6 +1,8 @@
-// Problem ID: 1866A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1866/problem/A
+/*
+ * Problem: 1866A - Ambitious Kid
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1866/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

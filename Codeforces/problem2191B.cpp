@@ -1,6 +1,8 @@
-// Problem ID: 2191B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2191/problem/B
+/*
+ * Problem: 2191B - MEX Reordering
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2191/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

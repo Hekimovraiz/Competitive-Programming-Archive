@@ -1,6 +1,8 @@
-// Problem ID: 16A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/16/problem/A
+/*
+ * Problem: 16A - Flag
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/16/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

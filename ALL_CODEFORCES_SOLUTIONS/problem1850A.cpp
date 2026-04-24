@@ -1,6 +1,8 @@
-// Problem ID: 1850A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1850/problem/A
+/*
+ * Problem: 1850A - To My Critics
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1850/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

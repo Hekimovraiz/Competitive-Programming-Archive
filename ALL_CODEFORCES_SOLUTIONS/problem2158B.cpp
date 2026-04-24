@@ -1,6 +1,8 @@
-// Problem ID: 2158B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2158/problem/B
+/*
+ * Problem: 2158B - Split
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2158/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

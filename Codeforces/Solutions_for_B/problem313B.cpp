@@ -1,6 +1,8 @@
-// Problem ID: 313B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/313/problem/B
+/*
+ * Problem: 313B - Ilya and Queries
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/313/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

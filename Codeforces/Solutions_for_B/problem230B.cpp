@@ -1,6 +1,8 @@
-// Problem ID: 230B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/230/problem/B
+/*
+ * Problem: 230B - T-primes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/230/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

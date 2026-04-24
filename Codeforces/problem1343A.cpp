@@ -1,6 +1,8 @@
-// Problem ID: 1343A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1343/problem/A
+/*
+ * Problem: 1343A - Candies
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1343/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 459B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/459/problem/B
+/*
+ * Problem: 459B - Pashmak and Flowers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/459/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

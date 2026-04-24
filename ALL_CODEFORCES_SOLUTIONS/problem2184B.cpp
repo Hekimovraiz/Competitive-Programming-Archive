@@ -1,6 +1,8 @@
-// Problem ID: 2184B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2184/problem/B
+/*
+ * Problem: 2184B - Hourglass
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2184/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 2000A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2000/problem/A
+/*
+ * Problem: 2000A - Primary Task
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2000/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

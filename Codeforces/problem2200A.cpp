@@ -1,6 +1,8 @@
-// Problem ID: 2200A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2200/problem/A
+/*
+ * Problem: 2200A - Eating Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2200/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

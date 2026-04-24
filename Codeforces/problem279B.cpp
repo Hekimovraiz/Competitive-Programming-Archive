@@ -1,6 +1,8 @@
-// Problem ID: 279B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/279/problem/B
+/*
+ * Problem: 279B - Books
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/279/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

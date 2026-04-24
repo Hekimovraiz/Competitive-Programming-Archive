@@ -1,6 +1,8 @@
-// Problem ID: 379A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/379/problem/A
+/*
+ * Problem: 379A - New Year Candles
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/379/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

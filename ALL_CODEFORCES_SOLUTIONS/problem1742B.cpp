@@ -1,6 +1,8 @@
-// Problem ID: 1742B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1742/problem/B
+/*
+ * Problem: 1742B - Increasing
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1742/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

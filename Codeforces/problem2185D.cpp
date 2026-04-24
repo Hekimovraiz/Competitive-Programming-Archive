@@ -1,6 +1,8 @@
-// Problem ID: 2185D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2185/problem/D
+/*
+ * Problem: 2185D - OutOfMemoryError
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2185/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

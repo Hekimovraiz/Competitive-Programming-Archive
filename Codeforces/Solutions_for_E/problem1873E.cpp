@@ -1,6 +1,8 @@
-// Problem ID: 1873E
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1873/problem/E
+/*
+ * Problem: 1873E - Building an Aquarium
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1873/problem/E
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

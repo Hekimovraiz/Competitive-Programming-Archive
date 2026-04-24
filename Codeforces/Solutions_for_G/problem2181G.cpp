@@ -1,6 +1,8 @@
-// Problem ID: 2181G
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/G
+/*
+ * Problem: 2181G - Greta's Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/G
+ */
 
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>

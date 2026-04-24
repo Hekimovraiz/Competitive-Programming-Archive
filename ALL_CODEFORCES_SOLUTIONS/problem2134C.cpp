@@ -1,6 +1,8 @@
-// Problem ID: 2134C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2134/problem/C
+/*
+ * Problem: 2134C - Even Larger
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2134/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1703F
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1703/problem/F
+/*
+ * Problem: 1703F - Yet Another Problem About Pairs Satisfying an Inequality
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1703/problem/F
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

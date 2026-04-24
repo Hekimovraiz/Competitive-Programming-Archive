@@ -1,6 +1,8 @@
-// Problem ID: 2009B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2009/problem/B
+/*
+ * Problem: 2009B - osu!mania
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2009/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

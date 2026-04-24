@@ -1,6 +1,8 @@
-// Problem ID: 584A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/584/problem/A
+/*
+ * Problem: 584A - Olesya and Rodion
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/584/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1927A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1927/problem/A
+/*
+ * Problem: 1927A - Make it White
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1927/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 894A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/894/problem/A
+/*
+ * Problem: 894A - QAQ
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/894/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

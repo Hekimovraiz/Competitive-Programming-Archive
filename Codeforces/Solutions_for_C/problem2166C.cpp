@@ -1,6 +1,8 @@
-// Problem ID: 2166C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2166/problem/C
+/*
+ * Problem: 2166C - Cyclic Merging
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2166/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

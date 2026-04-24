@@ -1,6 +1,8 @@
-// Problem ID: 1538C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1538/problem/C
+/*
+ * Problem: 1538C - Number of Pairs
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1538/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

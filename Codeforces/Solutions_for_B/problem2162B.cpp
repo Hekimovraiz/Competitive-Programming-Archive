@@ -1,6 +1,8 @@
-// Problem ID: 2162B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2162/problem/B
+/*
+ * Problem: 2162B - Beautiful String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2162/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

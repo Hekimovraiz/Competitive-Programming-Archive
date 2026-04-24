@@ -1,6 +1,8 @@
-// Problem ID: 1917B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1917/problem/B
+/*
+ * Problem: 1917B - Erase First or Second Letter
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1917/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

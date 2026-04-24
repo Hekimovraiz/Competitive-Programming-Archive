@@ -1,6 +1,8 @@
-// Problem ID: 1389A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1389/problem/A
+/*
+ * Problem: 1389A - LCM Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1389/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

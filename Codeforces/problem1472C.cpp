@@ -1,6 +1,8 @@
-// Problem ID: 1472C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1472/problem/C
+/*
+ * Problem: 1472C - Long Jumps
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1472/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

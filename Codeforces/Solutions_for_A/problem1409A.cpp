@@ -1,6 +1,8 @@
-// Problem ID: 1409A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1409/problem/A
+/*
+ * Problem: 1409A - Yet Another Two Integers Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1409/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

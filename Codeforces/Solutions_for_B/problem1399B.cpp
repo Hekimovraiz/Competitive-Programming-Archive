@@ -1,6 +1,8 @@
-// Problem ID: 1399B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1399/problem/B
+/*
+ * Problem: 1399B - Gifts Fixing
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1399/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

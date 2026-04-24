@@ -1,6 +1,8 @@
-// Problem ID: 1133C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1133/problem/C
+/*
+ * Problem: 1133C - Balanced Team
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1133/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

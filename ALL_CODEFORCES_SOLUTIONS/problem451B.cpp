@@ -1,6 +1,8 @@
-// Problem ID: 451B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/451/problem/B
+/*
+ * Problem: 451B - Sort the Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/451/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

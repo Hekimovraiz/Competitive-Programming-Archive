@@ -1,6 +1,8 @@
-// Problem ID: 630A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/630/problem/A
+/*
+ * Problem: 630A - Again Twenty Five!
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/630/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

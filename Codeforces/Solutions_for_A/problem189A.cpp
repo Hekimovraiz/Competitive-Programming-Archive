@@ -1,6 +1,8 @@
-// Problem ID: 189A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/189/problem/A
+/*
+ * Problem: 189A - Cut Ribbon
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/189/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1358A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1358/problem/A
+/*
+ * Problem: 1358A - Park Lighting
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1358/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

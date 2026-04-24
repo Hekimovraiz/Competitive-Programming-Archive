@@ -1,6 +1,8 @@
-// Problem ID: 1783A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1783/problem/A
+/*
+ * Problem: 1783A - Make it Beautiful
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1783/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

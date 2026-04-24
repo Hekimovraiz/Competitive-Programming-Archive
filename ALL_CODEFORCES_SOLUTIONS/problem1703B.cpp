@@ -1,6 +1,8 @@
-// Problem ID: 1703B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1703/problem/B
+/*
+ * Problem: 1703B - ICPC Balloons
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1703/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

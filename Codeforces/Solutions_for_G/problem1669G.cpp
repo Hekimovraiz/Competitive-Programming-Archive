@@ -1,6 +1,8 @@
-// Problem ID: 1669G
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1669/problem/G
+/*
+ * Problem: 1669G - Fall Down
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1669/problem/G
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

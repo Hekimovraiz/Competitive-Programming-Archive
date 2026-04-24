@@ -1,6 +1,8 @@
-// Problem ID: 2126A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2126/problem/A
+/*
+ * Problem: 2126A - Only One Digit
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2126/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

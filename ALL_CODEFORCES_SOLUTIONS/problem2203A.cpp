@@ -1,6 +1,8 @@
-// Problem ID: 2203A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2203/problem/A
+/*
+ * Problem: 2203A - Towers of Boxes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2203/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

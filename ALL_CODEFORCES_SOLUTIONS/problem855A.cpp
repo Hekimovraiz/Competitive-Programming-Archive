@@ -1,6 +1,8 @@
-// Problem ID: 855A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/855/problem/A
+/*
+ * Problem: 855A - Tom Riddle's Diary
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/855/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

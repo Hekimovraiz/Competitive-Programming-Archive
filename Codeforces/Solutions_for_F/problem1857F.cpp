@@ -1,6 +1,8 @@
-// Problem ID: 1857F
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1857/problem/F
+/*
+ * Problem: 1857F - Sum and Product
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1857/problem/F
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

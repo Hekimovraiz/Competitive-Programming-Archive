@@ -1,6 +1,8 @@
-// Problem ID: 1294C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1294/problem/C
+/*
+ * Problem: 1294C - Product of Three Numbers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1294/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

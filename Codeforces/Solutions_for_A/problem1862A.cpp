@@ -1,6 +1,8 @@
-// Problem ID: 1862A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1862/problem/A
+/*
+ * Problem: 1862A - Gift Carpet
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1862/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

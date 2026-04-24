@@ -1,6 +1,8 @@
-// Problem ID: 344A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/344/problem/A
+/*
+ * Problem: 344A - Magnets
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/344/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

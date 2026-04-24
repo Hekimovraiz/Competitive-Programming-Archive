@@ -1,6 +1,8 @@
-// Problem ID: 58A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/58/problem/A
+/*
+ * Problem: 58A - Chat room
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/58/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

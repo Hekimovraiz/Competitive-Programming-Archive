@@ -1,6 +1,8 @@
-// Problem ID: 1551A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1551/problem/A
+/*
+ * Problem: 1551A - Polycarp and Coins
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1551/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1371A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1371/problem/A
+/*
+ * Problem: 1371A - Magical Sticks
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1371/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

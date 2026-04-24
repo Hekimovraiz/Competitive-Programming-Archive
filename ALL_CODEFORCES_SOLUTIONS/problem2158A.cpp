@@ -1,6 +1,8 @@
-// Problem ID: 2158A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2158/problem/A
+/*
+ * Problem: 2158A - Suspension
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2158/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

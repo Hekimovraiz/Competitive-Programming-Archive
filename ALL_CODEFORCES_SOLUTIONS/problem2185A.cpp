@@ -1,6 +1,8 @@
-// Problem ID: 2185A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2185/problem/A
+/*
+ * Problem: 2185A - Perfect Root
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2185/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

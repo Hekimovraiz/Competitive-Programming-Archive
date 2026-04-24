@@ -1,6 +1,8 @@
-// Problem ID: 509A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/509/problem/A
+/*
+ * Problem: 509A - Maximum in Table
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/509/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

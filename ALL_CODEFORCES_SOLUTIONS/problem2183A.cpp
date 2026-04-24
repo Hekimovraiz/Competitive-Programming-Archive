@@ -1,6 +1,8 @@
-// Problem ID: 2183A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2183/problem/A
+/*
+ * Problem: 2183A - Binary Array Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2183/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

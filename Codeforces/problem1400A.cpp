@@ -1,6 +1,8 @@
-// Problem ID: 1400A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1400/problem/A
+/*
+ * Problem: 1400A - String Similarity
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1400/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

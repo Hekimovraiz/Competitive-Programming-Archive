@@ -1,6 +1,8 @@
-// Problem ID: 1873B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1873/problem/B
+/*
+ * Problem: 1873B - Good Kid
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1873/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 2205A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2205/problem/A
+/*
+ * Problem: 2205A - Simons and Making It Beautiful
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2205/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

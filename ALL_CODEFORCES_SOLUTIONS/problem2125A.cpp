@@ -1,6 +1,8 @@
-// Problem ID: 2125A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2125/problem/A
+/*
+ * Problem: 2125A - Difficult Contest
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2125/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

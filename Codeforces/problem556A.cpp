@@ -1,6 +1,8 @@
-// Problem ID: 556A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/556/problem/A
+/*
+ * Problem: 556A - Case of the Zeros and Ones
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/556/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

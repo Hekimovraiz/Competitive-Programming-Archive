@@ -1,6 +1,8 @@
-// Problem ID: 405A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/405/problem/A
+/*
+ * Problem: 405A - Gravity Flip
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/405/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

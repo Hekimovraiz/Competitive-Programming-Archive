@@ -1,6 +1,8 @@
-// Problem ID: 996B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/996/problem/B
+/*
+ * Problem: 996B - World Cup
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/996/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

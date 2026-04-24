@@ -1,6 +1,8 @@
-// Problem ID: 1343B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1343/problem/B
+/*
+ * Problem: 1343B - Balanced Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1343/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

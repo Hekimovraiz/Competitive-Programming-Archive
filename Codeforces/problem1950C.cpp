@@ -1,6 +1,8 @@
-// Problem ID: 1950C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1950/problem/C
+/*
+ * Problem: 1950C - Clock Conversion
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1950/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

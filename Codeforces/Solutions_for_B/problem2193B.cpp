@@ -1,6 +1,8 @@
-// Problem ID: 2193B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2193/problem/B
+/*
+ * Problem: 2193B - Reverse a Permutation
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2193/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

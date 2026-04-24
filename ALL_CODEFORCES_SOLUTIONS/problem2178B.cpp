@@ -1,6 +1,8 @@
-// Problem ID: 2178B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2178/problem/B
+/*
+ * Problem: 2178B - Impost or Sus
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2178/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

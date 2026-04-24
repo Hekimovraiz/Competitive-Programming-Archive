@@ -1,6 +1,8 @@
-// Problem ID: 339B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/339/problem/B
+/*
+ * Problem: 339B - Xenia and Ringroad
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/339/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

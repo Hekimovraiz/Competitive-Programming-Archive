@@ -1,6 +1,8 @@
-// Problem ID: 1985A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1985/problem/A
+/*
+ * Problem: 1985A - Creating Words
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1985/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

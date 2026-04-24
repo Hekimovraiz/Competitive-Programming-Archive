@@ -1,6 +1,8 @@
-// Problem ID: 2178C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2178/problem/C
+/*
+ * Problem: 2178C - First or Second
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2178/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

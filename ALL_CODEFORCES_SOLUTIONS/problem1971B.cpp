@@ -1,6 +1,8 @@
-// Problem ID: 1971B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1971/problem/B
+/*
+ * Problem: 1971B - Different String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1971/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

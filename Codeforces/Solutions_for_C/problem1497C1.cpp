@@ -1,6 +1,8 @@
-// Problem ID: 1497C1
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1497/problem/C1
+/*
+ * Problem: 1497C1 - k-LCM (easy version)
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1497/problem/C1
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

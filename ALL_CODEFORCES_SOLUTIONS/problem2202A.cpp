@@ -1,6 +1,8 @@
-// Problem ID: 2202A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2202/problem/A
+/*
+ * Problem: 2202A - Parkour Design
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2202/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

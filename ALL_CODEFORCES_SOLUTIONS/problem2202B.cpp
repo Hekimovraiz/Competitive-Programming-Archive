@@ -1,6 +1,8 @@
-// Problem ID: 2202B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2202/problem/B
+/*
+ * Problem: 2202B - ABAB Construction
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2202/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

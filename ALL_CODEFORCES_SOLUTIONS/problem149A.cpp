@@ -1,6 +1,8 @@
-// Problem ID: 149A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/149/problem/A
+/*
+ * Problem: 149A - Business trip
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/149/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1926A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1926/problem/A
+/*
+ * Problem: 1926A - Vlad and the Best of Five
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1926/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

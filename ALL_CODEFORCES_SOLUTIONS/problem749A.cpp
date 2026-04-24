@@ -1,6 +1,8 @@
-// Problem ID: 749A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/749/problem/A
+/*
+ * Problem: 749A - Bachgold Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/749/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

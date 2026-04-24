@@ -1,6 +1,8 @@
-// Problem ID: 102267B
-// Platform: Codeforces
-// Link: https://codeforces.com/gym/102267/problem/B
+/*
+ * Problem: 102267B - Primes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/gym/102267/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

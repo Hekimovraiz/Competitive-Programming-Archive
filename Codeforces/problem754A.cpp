@@ -1,6 +1,8 @@
-// Problem ID: 754A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/754/problem/A
+/*
+ * Problem: 754A - Lesha and array splitting
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/754/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

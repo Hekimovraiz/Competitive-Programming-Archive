@@ -1,6 +1,8 @@
-// Problem ID: 466C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/466/problem/C
+/*
+ * Problem: 466C - Number of Ways
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/466/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

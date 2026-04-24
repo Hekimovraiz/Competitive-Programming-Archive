@@ -1,6 +1,8 @@
-// Problem ID: 177A2
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/177/problem/A2
+/*
+ * Problem: 177A2 - Good Matrix Elements
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/177/problem/A2
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

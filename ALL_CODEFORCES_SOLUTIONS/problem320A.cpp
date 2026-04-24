@@ -1,6 +1,8 @@
-// Problem ID: 320A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/320/problem/A
+/*
+ * Problem: 320A - Magic Numbers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/320/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

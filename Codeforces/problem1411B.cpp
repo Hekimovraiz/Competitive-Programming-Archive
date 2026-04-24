@@ -1,6 +1,8 @@
-// Problem ID: 1411B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1411/problem/B
+/*
+ * Problem: 1411B - Fair Numbers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1411/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 2181F
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/F
+/*
+ * Problem: 2181F - Fragmented Nim
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/F
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

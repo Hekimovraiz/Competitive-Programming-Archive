@@ -1,6 +1,8 @@
-// Problem ID: 1926C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1926/problem/C
+/*
+ * Problem: 1926C - Vlad and a Sum of Sum of Digits
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1926/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 281A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/281/problem/A
+/*
+ * Problem: 281A - Word Capitalization
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/281/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

@@ -1,6 +1,8 @@
-// Problem ID: 1669F
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1669/problem/F
+/*
+ * Problem: 1669F - Eating Candies
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1669/problem/F
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

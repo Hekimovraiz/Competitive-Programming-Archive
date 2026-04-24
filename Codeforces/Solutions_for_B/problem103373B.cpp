@@ -1,6 +1,8 @@
-// Problem ID: 103373B
-// Platform: Codeforces
-// Link: https://codeforces.com/gym/103373/problem/B
+/*
+ * Problem: 103373B - Aliquot Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/gym/103373/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

@@ -1,6 +1,8 @@
-// Problem ID: 520B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/520/problem/B
+/*
+ * Problem: 520B - Two Buttons
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/520/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

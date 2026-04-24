@@ -1,6 +1,8 @@
-// Problem ID: 339A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/339/problem/A
+/*
+ * Problem: 339A - Helpful Maths
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/339/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

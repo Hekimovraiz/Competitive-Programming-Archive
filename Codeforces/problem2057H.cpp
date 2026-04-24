@@ -1,6 +1,8 @@
-// Problem ID: 2057H
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2057/problem/H
+/*
+ * Problem: 2057H - Coffee Break
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2057/problem/H
+ */
 
 // Author : Raiz
 #pragma GCC optimize("Ofast")

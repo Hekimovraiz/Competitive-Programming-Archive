@@ -1,6 +1,8 @@
-// Problem ID: 200B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/200/problem/B
+/*
+ * Problem: 200B - Drinks
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/200/problem/B
+ */
 
 #include <bits/stdc++.h>
 #define int long long

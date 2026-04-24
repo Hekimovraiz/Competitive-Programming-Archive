@@ -1,6 +1,8 @@
-// Problem ID: 489B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/489/problem/B
+/*
+ * Problem: 489B - BerSU Ball
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/489/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

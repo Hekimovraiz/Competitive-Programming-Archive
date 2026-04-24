@@ -1,6 +1,8 @@
-// Problem ID: 2205B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2205/problem/B
+/*
+ * Problem: 2205B - Simons and Cakes for Success
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2205/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

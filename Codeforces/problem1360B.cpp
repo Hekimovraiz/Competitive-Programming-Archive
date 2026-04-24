@@ -1,6 +1,8 @@
-// Problem ID: 1360B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1360/problem/B
+/*
+ * Problem: 1360B - Honest Coach
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1360/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

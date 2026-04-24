@@ -1,6 +1,8 @@
-// Problem ID: 1955A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1955/problem/A
+/*
+ * Problem: 1955A - Yogurt Sale
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1955/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

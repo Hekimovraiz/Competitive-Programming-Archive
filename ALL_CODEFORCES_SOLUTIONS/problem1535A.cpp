@@ -1,6 +1,8 @@
-// Problem ID: 1535A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1535/problem/A
+/*
+ * Problem: 1535A - Fair Playoff
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1535/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

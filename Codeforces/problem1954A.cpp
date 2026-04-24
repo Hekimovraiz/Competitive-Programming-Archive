@@ -1,6 +1,8 @@
-// Problem ID: 1954A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1954/problem/A
+/*
+ * Problem: 1954A - Painting the Ribbon
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1954/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

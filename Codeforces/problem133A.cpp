@@ -1,6 +1,8 @@
-// Problem ID: 133A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/133/problem/A
+/*
+ * Problem: 133A - HQ9+
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/133/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

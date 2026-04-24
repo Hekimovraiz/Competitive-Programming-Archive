@@ -1,6 +1,8 @@
-// Problem ID: 1182A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1182/problem/A
+/*
+ * Problem: 1182A - Filling Shapes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1182/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

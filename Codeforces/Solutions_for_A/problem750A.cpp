@@ -1,6 +1,8 @@
-// Problem ID: 750A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/750/problem/A
+/*
+ * Problem: 750A - New Year and Hurry
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/750/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

@@ -1,6 +1,8 @@
-// Problem ID: 1238A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1238/problem/A
+/*
+ * Problem: 1238A - Prime Subtraction
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1238/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

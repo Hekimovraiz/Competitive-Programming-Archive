@@ -1,6 +1,8 @@
-// Problem ID: 148A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/148/problem/A
+/*
+ * Problem: 148A - Insomnia cure
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/148/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

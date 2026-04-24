@@ -1,6 +1,8 @@
-// Problem ID: 1999B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1999/problem/B
+/*
+ * Problem: 1999B - Card Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1999/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

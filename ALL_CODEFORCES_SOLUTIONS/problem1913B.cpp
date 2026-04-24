@@ -1,6 +1,8 @@
-// Problem ID: 1913B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1913/problem/B
+/*
+ * Problem: 1913B - Swap and Delete
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1913/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

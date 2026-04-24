@@ -1,6 +1,8 @@
-// Problem ID: 1877A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1877/problem/A
+/*
+ * Problem: 1877A - Goals of Victory
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1877/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

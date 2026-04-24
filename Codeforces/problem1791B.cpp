@@ -1,6 +1,8 @@
-// Problem ID: 1791B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1791/problem/B
+/*
+ * Problem: 1791B - Following Directions
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1791/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

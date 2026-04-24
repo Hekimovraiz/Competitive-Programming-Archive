@@ -1,6 +1,8 @@
-// Problem ID: 2181D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/D
+/*
+ * Problem: 2181D - Doorway
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/D
+ */
 
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>

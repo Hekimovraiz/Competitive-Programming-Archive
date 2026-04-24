@@ -1,6 +1,8 @@
-// Problem ID: 1840C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1840/problem/C
+/*
+ * Problem: 1840C - Ski Resort
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1840/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1542A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1542/problem/A
+/*
+ * Problem: 1542A - Odd Set
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1542/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 2183B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2183/problem/B
+/*
+ * Problem: 2183B - Yet Another MEX Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2183/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

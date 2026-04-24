@@ -1,6 +1,8 @@
-// Problem ID: 1030A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1030/problem/A
+/*
+ * Problem: 1030A - In Search of an Easy Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1030/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

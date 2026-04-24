@@ -1,6 +1,8 @@
-// Problem ID: 977B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/977/problem/B
+/*
+ * Problem: 977B - Two-gram
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/977/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

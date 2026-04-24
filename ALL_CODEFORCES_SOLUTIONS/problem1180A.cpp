@@ -1,6 +1,8 @@
-// Problem ID: 1180A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1180/problem/A
+/*
+ * Problem: 1180A - Alex and a Rhombus
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1180/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

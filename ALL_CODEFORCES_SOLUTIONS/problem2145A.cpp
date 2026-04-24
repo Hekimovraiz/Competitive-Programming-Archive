@@ -1,6 +1,8 @@
-// Problem ID: 2145A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2145/problem/A
+/*
+ * Problem: 2145A - Candies for Nephews
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2145/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

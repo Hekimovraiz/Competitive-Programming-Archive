@@ -1,6 +1,8 @@
-// Problem ID: 2182A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2182/problem/A
+/*
+ * Problem: 2182A - New Year String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2182/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

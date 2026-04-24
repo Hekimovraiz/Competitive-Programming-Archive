@@ -1,6 +1,8 @@
-// Problem ID: 2166B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2166/problem/B
+/*
+ * Problem: 2166B - Tab Closing
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2166/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

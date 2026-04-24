@@ -1,6 +1,8 @@
-// Problem ID: 1A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1/problem/A
+/*
+ * Problem: 1A - Theatre Square
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

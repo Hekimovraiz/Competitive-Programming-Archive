@@ -1,6 +1,8 @@
-// Problem ID: 1339A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1339/problem/A
+/*
+ * Problem: 1339A - Filling Diamonds
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1339/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 466A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/466/problem/A
+/*
+ * Problem: 466A - Cheap Travel
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/466/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

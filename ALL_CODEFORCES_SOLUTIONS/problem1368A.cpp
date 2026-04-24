@@ -1,6 +1,8 @@
-// Problem ID: 1368A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1368/problem/A
+/*
+ * Problem: 1368A - C+=
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1368/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

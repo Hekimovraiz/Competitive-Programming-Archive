@@ -1,6 +1,8 @@
-// Problem ID: 2098B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2098/problem/B
+/*
+ * Problem: 2098B - Sasha and the Apartment Purchase
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2098/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

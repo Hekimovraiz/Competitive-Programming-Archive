@@ -1,6 +1,8 @@
-// Problem ID: 363B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/363/problem/B
+/*
+ * Problem: 363B - Fence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/363/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

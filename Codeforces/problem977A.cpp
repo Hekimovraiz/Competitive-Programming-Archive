@@ -1,6 +1,8 @@
-// Problem ID: 977A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/977/problem/A
+/*
+ * Problem: 977A - Wrong Subtraction
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/977/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

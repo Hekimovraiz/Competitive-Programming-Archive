@@ -1,6 +1,8 @@
-// Problem ID: 2181H
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/H
+/*
+ * Problem: 2181H - Honey Cake
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/H
+ */
 
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>

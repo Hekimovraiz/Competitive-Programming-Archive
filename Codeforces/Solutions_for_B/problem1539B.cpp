@@ -1,6 +1,8 @@
-// Problem ID: 1539B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1539/problem/B
+/*
+ * Problem: 1539B - Love Song
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1539/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

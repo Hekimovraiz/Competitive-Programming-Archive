@@ -1,6 +1,8 @@
-// Problem ID: 1699B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1699/problem/B
+/*
+ * Problem: 1699B - Almost Ternary Matrix
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1699/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 492A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/492/problem/A
+/*
+ * Problem: 492A - Vanya and Cubes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/492/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

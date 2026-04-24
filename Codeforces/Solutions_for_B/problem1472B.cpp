@@ -1,6 +1,8 @@
-// Problem ID: 1472B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1472/problem/B
+/*
+ * Problem: 1472B - Fair Division
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1472/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

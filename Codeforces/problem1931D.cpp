@@ -1,6 +1,8 @@
-// Problem ID: 1931D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1931/problem/D
+/*
+ * Problem: 1931D - Divisible Pairs
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1931/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

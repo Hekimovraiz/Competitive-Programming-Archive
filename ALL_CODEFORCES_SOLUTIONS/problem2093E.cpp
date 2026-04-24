@@ -1,6 +1,8 @@
-// Problem ID: 2093E
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2093/problem/E
+/*
+ * Problem: 2093E - Min Max MEX
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2093/problem/E
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

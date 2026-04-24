@@ -1,6 +1,8 @@
-// Problem ID: 455A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/455/problem/A
+/*
+ * Problem: 455A - Boredom
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/455/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

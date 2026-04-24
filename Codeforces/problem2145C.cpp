@@ -1,6 +1,8 @@
-// Problem ID: 2145C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2145/problem/C
+/*
+ * Problem: 2145C - Monocarp's String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2145/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1996A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1996/problem/A
+/*
+ * Problem: 1996A - Legs
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1996/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

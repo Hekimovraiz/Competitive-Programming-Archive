@@ -1,6 +1,8 @@
-// Problem ID: 2181M
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/M
+/*
+ * Problem: 2181M - Medical Parity
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/M
+ */
 
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>

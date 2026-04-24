@@ -1,6 +1,8 @@
-// Problem ID: 926G
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/926/problem/G
+/*
+ * Problem: 926G - Large Bouquets
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/926/problem/G
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

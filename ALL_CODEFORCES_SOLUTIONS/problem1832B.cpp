@@ -1,6 +1,8 @@
-// Problem ID: 1832B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1832/problem/B
+/*
+ * Problem: 1832B - Maximum Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1832/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

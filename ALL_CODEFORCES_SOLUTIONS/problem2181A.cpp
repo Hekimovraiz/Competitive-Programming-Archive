@@ -1,6 +1,8 @@
-// Problem ID: 2181A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/A
+/*
+ * Problem: 2181A - Alphabet City
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/A
+ */
 
 ///welcome to MuratRaqli's zibillik
 #include<bits/stdc++.h>

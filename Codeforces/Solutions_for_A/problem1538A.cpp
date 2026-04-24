@@ -1,6 +1,8 @@
-// Problem ID: 1538A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1538/problem/A
+/*
+ * Problem: 1538A - Stone Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1538/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1985C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1985/problem/C
+/*
+ * Problem: 1985C - Good Prefixes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1985/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

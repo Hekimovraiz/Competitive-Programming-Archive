@@ -1,6 +1,8 @@
-// Problem ID: 1324D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1324/problem/D
+/*
+ * Problem: 1324D - Pair of Topics
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1324/problem/D
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

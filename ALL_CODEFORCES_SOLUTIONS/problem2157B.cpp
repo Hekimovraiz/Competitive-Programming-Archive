@@ -1,6 +1,8 @@
-// Problem ID: 2157B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2157/problem/B
+/*
+ * Problem: 2157B - Expansion Plan 2
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2157/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1426A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1426/problem/A
+/*
+ * Problem: 1426A - Floor Number
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1426/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

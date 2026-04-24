@@ -1,6 +1,8 @@
-// Problem ID: 1692E
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1692/problem/E
+/*
+ * Problem: 1692E - Binary Deque
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1692/problem/E
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

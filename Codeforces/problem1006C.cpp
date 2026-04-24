@@ -1,6 +1,8 @@
-// Problem ID: 1006C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1006/problem/C
+/*
+ * Problem: 1006C - Three Parts of the Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1006/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

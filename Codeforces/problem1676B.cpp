@@ -1,6 +1,8 @@
-// Problem ID: 1676B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1676/problem/B
+/*
+ * Problem: 1676B - Equal Candies
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1676/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

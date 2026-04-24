@@ -1,6 +1,8 @@
-// Problem ID: 2188A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2188/problem/A
+/*
+ * Problem: 2188A - Divisible Permutation
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2188/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

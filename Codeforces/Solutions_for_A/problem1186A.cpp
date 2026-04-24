@@ -1,6 +1,8 @@
-// Problem ID: 1186A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1186/problem/A
+/*
+ * Problem: 1186A - Vus the Cossack and a Contest
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1186/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1837B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1837/problem/B
+/*
+ * Problem: 1837B - Comparison String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1837/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

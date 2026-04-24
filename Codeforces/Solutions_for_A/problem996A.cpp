@@ -1,6 +1,8 @@
-// Problem ID: 996A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/996/problem/A
+/*
+ * Problem: 996A - Hit the Lottery
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/996/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

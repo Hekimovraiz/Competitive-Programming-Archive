@@ -1,6 +1,8 @@
-// Problem ID: 2162A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2162/problem/A
+/*
+ * Problem: 2162A - Beautiful Average
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2162/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

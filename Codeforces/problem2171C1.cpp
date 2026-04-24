@@ -1,6 +1,8 @@
-// Problem ID: 2171C1
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2171/problem/C1
+/*
+ * Problem: 2171C1 - Renako Amaori and XOR Game (easy version)
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2171/problem/C1
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

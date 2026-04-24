@@ -1,6 +1,8 @@
-// Problem ID: 433B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/433/problem/B
+/*
+ * Problem: 433B - Kuriyama Mirai's Stones
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/433/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

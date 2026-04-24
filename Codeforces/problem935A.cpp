@@ -1,6 +1,8 @@
-// Problem ID: 935A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/935/problem/A
+/*
+ * Problem: 935A - Fafa and his Company
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/935/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 2114A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2114/problem/A
+/*
+ * Problem: 2114A - Square Year
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2114/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

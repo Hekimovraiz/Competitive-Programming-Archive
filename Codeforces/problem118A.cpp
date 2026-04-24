@@ -1,6 +1,8 @@
-// Problem ID: 118A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/118/problem/A
+/*
+ * Problem: 118A - String Task
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/118/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

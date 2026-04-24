@@ -1,6 +1,8 @@
-// Problem ID: 2171B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2171/problem/B
+/*
+ * Problem: 2171B - Yuu Koito and Minimum Absolute Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2171/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

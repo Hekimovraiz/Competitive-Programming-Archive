@@ -1,6 +1,8 @@
-// Problem ID: 34B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/34/problem/B
+/*
+ * Problem: 34B - Sale
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/34/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

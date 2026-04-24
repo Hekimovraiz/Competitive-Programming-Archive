@@ -1,6 +1,8 @@
-// Problem ID: 1788A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1788/problem/A
+/*
+ * Problem: 1788A - One and Two
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1788/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

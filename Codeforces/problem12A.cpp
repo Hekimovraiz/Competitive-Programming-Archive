@@ -1,6 +1,8 @@
-// Problem ID: 12A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/12/problem/A
+/*
+ * Problem: 12A - Super Agent
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/12/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

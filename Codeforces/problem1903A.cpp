@@ -1,6 +1,8 @@
-// Problem ID: 1903A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1903/problem/A
+/*
+ * Problem: 1903A - Halloumi Boxes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1903/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

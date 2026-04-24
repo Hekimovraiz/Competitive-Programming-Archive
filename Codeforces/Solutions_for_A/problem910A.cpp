@@ -1,6 +1,8 @@
-// Problem ID: 910A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/910/problem/A
+/*
+ * Problem: 910A - The Way to Home
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/910/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

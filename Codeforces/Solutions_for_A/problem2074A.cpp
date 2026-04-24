@@ -1,6 +1,8 @@
-// Problem ID: 2074A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2074/problem/A
+/*
+ * Problem: 2074A - Draw a Square
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2074/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

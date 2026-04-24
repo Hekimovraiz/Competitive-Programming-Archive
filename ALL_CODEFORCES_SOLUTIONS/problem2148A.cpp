@@ -1,6 +1,8 @@
-// Problem ID: 2148A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2148/problem/A
+/*
+ * Problem: 2148A - Sublime Sequence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2148/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

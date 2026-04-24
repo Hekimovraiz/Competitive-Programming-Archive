@@ -1,6 +1,8 @@
-// Problem ID: 1342A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1342/problem/A
+/*
+ * Problem: 1342A - Road To Zero
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1342/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

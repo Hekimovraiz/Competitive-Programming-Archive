@@ -1,6 +1,8 @@
-// Problem ID: 2188B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2188/problem/B
+/*
+ * Problem: 2188B - Seats
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2188/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

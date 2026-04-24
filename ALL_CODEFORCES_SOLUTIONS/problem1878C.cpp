@@ -1,6 +1,8 @@
-// Problem ID: 1878C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1878/problem/C
+/*
+ * Problem: 1878C - Vasilije in Cacak
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1878/problem/C
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

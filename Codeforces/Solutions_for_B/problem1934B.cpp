@@ -1,6 +1,8 @@
-// Problem ID: 1934B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1934/problem/B
+/*
+ * Problem: 1934B - Yet Another Coin Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1934/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1791D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1791/problem/D
+/*
+ * Problem: 1791D - Distinct Split
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1791/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

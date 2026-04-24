@@ -1,6 +1,8 @@
-// Problem ID: 1304A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1304/problem/A
+/*
+ * Problem: 1304A - Two Rabbits
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1304/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

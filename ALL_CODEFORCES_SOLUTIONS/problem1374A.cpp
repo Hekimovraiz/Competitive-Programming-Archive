@@ -1,6 +1,8 @@
-// Problem ID: 1374A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1374/problem/A
+/*
+ * Problem: 1374A - Required Remainder
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1374/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

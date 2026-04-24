@@ -1,6 +1,8 @@
-// Problem ID: 427A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/427/problem/A
+/*
+ * Problem: 427A - Police Recruits
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/427/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

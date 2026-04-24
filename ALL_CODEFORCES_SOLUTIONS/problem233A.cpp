@@ -1,6 +1,8 @@
-// Problem ID: 233A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/233/problem/A
+/*
+ * Problem: 233A - Perfect Permutation
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/233/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

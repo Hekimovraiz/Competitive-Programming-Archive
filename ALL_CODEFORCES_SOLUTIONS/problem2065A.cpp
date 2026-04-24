@@ -1,6 +1,8 @@
-// Problem ID: 2065A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2065/problem/A
+/*
+ * Problem: 2065A - Skibidus and Amog'u
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2065/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

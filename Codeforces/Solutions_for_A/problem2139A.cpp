@@ -1,6 +1,8 @@
-// Problem ID: 2139A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2139/problem/A
+/*
+ * Problem: 2139A - Maple and Multiplication
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2139/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

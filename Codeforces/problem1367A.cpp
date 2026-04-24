@@ -1,6 +1,8 @@
-// Problem ID: 1367A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1367/problem/A
+/*
+ * Problem: 1367A - Short Substrings
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1367/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

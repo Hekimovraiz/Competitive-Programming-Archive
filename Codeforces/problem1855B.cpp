@@ -1,6 +1,8 @@
-// Problem ID: 1855B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1855/problem/B
+/*
+ * Problem: 1855B - Longest Divisors Interval
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1855/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

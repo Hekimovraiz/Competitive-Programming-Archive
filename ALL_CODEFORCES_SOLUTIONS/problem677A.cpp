@@ -1,6 +1,8 @@
-// Problem ID: 677A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/677/problem/A
+/*
+ * Problem: 677A - Vanya and Fence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/677/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

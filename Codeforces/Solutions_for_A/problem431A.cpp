@@ -1,6 +1,8 @@
-// Problem ID: 431A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/431/problem/A
+/*
+ * Problem: 431A - Black Square
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/431/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

@@ -1,6 +1,8 @@
-// Problem ID: 865D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/865/problem/D
+/*
+ * Problem: 865D - Buy Low Sell High
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/865/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

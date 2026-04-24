@@ -1,6 +1,8 @@
-// Problem ID: 2130A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2130/problem/A
+/*
+ * Problem: 2130A - Submission is All You Need
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2130/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

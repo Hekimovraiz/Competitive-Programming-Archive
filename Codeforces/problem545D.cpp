@@ -1,6 +1,8 @@
-// Problem ID: 545D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/545/problem/D
+/*
+ * Problem: 545D - Queue
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/545/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

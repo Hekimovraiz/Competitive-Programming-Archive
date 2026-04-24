@@ -1,6 +1,8 @@
-// Problem ID: 1915A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1915/problem/A
+/*
+ * Problem: 1915A - Odd One Out
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1915/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

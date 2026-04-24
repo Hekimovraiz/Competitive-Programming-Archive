@@ -1,6 +1,8 @@
-// Problem ID: 96A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/96/problem/A
+/*
+ * Problem: 96A - Football
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/96/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

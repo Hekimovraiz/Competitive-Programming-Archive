@@ -1,6 +1,8 @@
-// Problem ID: 1807D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1807/problem/D
+/*
+ * Problem: 1807D - Odd Queries
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1807/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 160A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/160/problem/A
+/*
+ * Problem: 160A - Twins
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/160/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

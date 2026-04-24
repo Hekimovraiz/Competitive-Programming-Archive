@@ -1,6 +1,8 @@
-// Problem ID: 2194B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2194/problem/B
+/*
+ * Problem: 2194B - Offshores
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2194/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

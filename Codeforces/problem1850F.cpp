@@ -1,6 +1,8 @@
-// Problem ID: 1850F
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1850/problem/F
+/*
+ * Problem: 1850F - We Were Both Children
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1850/problem/F
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

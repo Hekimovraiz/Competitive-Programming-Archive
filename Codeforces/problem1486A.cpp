@@ -1,6 +1,8 @@
-// Problem ID: 1486A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1486/problem/A
+/*
+ * Problem: 1486A - Shifting Stacks
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1486/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

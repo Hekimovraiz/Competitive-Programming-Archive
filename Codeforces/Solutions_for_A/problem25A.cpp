@@ -1,6 +1,8 @@
-// Problem ID: 25A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/25/problem/A
+/*
+ * Problem: 25A - IQ test
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/25/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

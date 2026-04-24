@@ -1,6 +1,8 @@
-// Problem ID: 998B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/998/problem/B
+/*
+ * Problem: 998B - Cutting
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/998/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

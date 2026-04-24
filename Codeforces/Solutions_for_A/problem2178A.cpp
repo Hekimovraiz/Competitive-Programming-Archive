@@ -1,6 +1,8 @@
-// Problem ID: 2178A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2178/problem/A
+/*
+ * Problem: 2178A - Yes or Yes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2178/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

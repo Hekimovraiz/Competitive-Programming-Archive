@@ -1,6 +1,8 @@
-// Problem ID: 1810C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1810/problem/C
+/*
+ * Problem: 1810C - Make It Permutation
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1810/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

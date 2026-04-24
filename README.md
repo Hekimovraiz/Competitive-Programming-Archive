@@ -8,7 +8,7 @@ Welcome to my personal archive of solved problems across various competitive pro
 
 | Platform      | Problems Solved |
 |---------------|----------------|
-| Codeforces | 517 |
+| Codeforces | 472 |
 | EOlymp | 346 |
 | AtCoder | 58 |
 | CSES | 35 |
@@ -23,7 +23,7 @@ Welcome to my personal archive of solved problems across various competitive pro
 | USACO | 1 |
 | VNOJ | 1 |
 | Yosupo | 1 |
-| **Total**     | **1000** |
+| **Total**     | **955** |
 
 
 ---

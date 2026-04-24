@@ -1,6 +1,8 @@
-// Problem ID: 707A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/707/problem/A
+/*
+ * Problem: 707A - Brain's Photos
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/707/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

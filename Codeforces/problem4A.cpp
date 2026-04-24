@@ -1,6 +1,8 @@
-// Problem ID: 4A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/4/problem/A
+/*
+ * Problem: 4A - Watermelon
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/4/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

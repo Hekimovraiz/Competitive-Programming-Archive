@@ -1,6 +1,8 @@
-// Problem ID: 26B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/26/problem/B
+/*
+ * Problem: 26B - Regular Bracket Sequence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/26/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

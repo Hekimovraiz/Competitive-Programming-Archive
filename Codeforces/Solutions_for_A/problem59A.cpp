@@ -1,6 +1,8 @@
-// Problem ID: 59A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/59/problem/A
+/*
+ * Problem: 59A - Word
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/59/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

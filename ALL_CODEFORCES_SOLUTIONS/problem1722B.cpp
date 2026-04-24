@@ -1,6 +1,8 @@
-// Problem ID: 1722B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1722/problem/B
+/*
+ * Problem: 1722B - Colourblindness
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1722/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

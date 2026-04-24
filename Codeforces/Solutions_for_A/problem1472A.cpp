@@ -1,6 +1,8 @@
-// Problem ID: 1472A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1472/problem/A
+/*
+ * Problem: 1472A - Cards for Friends
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1472/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

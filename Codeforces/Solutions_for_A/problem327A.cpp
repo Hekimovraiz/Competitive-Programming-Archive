@@ -1,6 +1,8 @@
-// Problem ID: 327A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/327/problem/A
+/*
+ * Problem: 327A - Flipping Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/327/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

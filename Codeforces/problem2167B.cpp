@@ -1,6 +1,8 @@
-// Problem ID: 2167B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2167/problem/B
+/*
+ * Problem: 2167B - Your Name
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2167/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

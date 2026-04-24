@@ -1,6 +1,8 @@
-// Problem ID: 2161A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2161/problem/A
+/*
+ * Problem: 2161A - Round Trip
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2161/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

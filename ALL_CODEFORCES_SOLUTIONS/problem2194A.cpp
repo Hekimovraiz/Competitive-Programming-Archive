@@ -1,6 +1,8 @@
-// Problem ID: 2194A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2194/problem/A
+/*
+ * Problem: 2194A - Lawn Mower
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2194/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

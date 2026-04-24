@@ -1,6 +1,8 @@
-// Problem ID: 69A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/69/problem/A
+/*
+ * Problem: 69A - Young Physicist
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/69/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

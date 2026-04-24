@@ -1,6 +1,8 @@
-// Problem ID: 1028B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1028/problem/B
+/*
+ * Problem: 1028B - Unnatural Conditions
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1028/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

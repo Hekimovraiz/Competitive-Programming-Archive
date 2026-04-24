@@ -1,6 +1,8 @@
-// Problem ID: 122A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/122/problem/A
+/*
+ * Problem: 122A - Lucky Division
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/122/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1521A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1521/problem/A
+/*
+ * Problem: 1521A - Nastia and Nearly Good Numbers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1521/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

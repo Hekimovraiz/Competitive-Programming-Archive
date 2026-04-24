@@ -1,6 +1,8 @@
-// Problem ID: 1941C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1941/problem/C
+/*
+ * Problem: 1941C - Rudolf and the Ugly String
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1941/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

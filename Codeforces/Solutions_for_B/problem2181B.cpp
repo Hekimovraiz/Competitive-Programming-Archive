@@ -1,6 +1,8 @@
-// Problem ID: 2181B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2181/problem/B
+/*
+ * Problem: 2181B - Battle of Arrays
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2181/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 2193D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2193/problem/D
+/*
+ * Problem: 2193D - Monster Game
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2193/problem/D
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

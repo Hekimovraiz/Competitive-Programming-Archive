@@ -1,6 +1,8 @@
-// Problem ID: 61A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/61/problem/A
+/*
+ * Problem: 61A - Ultra-Fast Mathematician
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/61/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

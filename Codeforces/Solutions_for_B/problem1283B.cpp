@@ -1,6 +1,8 @@
-// Problem ID: 1283B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1283/problem/B
+/*
+ * Problem: 1283B - Candies Division
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1283/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

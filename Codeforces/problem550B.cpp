@@ -1,6 +1,8 @@
-// Problem ID: 550B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/550/problem/B
+/*
+ * Problem: 550B - Preparing Olympiad
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/550/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

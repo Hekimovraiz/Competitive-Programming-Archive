@@ -1,6 +1,8 @@
-// Problem ID: 1857A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1857/problem/A
+/*
+ * Problem: 1857A - Array Coloring
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1857/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

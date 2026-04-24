@@ -1,6 +1,8 @@
-// Problem ID: 1328A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1328/problem/A
+/*
+ * Problem: 1328A - Divisibility Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1328/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

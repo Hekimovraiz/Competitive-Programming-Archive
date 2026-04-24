@@ -1,6 +1,8 @@
-// Problem ID: 381A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/381/problem/A
+/*
+ * Problem: 381A - Sereja and Dima
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/381/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

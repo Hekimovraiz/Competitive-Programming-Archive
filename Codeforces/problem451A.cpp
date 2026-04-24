@@ -1,6 +1,8 @@
-// Problem ID: 451A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/451/problem/A
+/*
+ * Problem: 451A - Game With Sticks
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/451/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

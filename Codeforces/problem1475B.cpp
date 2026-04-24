@@ -1,6 +1,8 @@
-// Problem ID: 1475B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1475/problem/B
+/*
+ * Problem: 1475B - New Year's Number
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1475/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

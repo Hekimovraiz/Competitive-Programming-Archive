@@ -1,6 +1,8 @@
-// Problem ID: 1709B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1709/problem/B
+/*
+ * Problem: 1709B - Also Try Minecraft
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1709/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

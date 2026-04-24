@@ -1,6 +1,8 @@
-// Problem ID: 2044C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2044/problem/C
+/*
+ * Problem: 2044C - Hard Problem
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2044/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

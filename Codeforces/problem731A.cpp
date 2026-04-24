@@ -1,6 +1,8 @@
-// Problem ID: 731A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/731/problem/A
+/*
+ * Problem: 731A - Night at the Museum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/731/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 580C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/580/problem/C
+/*
+ * Problem: 580C - Kefa and Park
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/580/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

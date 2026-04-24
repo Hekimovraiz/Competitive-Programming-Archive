@@ -1,6 +1,8 @@
-// Problem ID: 1520D
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1520/problem/D
+/*
+ * Problem: 1520D - Same Differences
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1520/problem/D
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

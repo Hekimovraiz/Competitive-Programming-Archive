@@ -1,6 +1,8 @@
-// Problem ID: 2211B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2211/problem/B
+/*
+ * Problem: 2211B - Mickey Mouse Constructive
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2211/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

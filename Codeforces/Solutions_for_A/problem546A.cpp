@@ -1,6 +1,8 @@
-// Problem ID: 546A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/546/problem/A
+/*
+ * Problem: 546A - Soldier and Bananas
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/546/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

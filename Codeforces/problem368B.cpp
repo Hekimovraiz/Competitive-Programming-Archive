@@ -1,6 +1,8 @@
-// Problem ID: 368B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/368/problem/B
+/*
+ * Problem: 368B - Sereja and Suffixes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/368/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

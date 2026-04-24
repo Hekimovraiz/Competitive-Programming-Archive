@@ -1,6 +1,8 @@
-// Problem ID: 1476A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1476/problem/A
+/*
+ * Problem: 1476A - K-divisible Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1476/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

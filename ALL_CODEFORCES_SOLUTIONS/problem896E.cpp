@@ -1,6 +1,8 @@
-// Problem ID: 896E
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/896/problem/E
+/*
+ * Problem: 896E - Welcome home, Chtholly
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/896/problem/E
+ */
 
 #include <bits/stdc++.h>
 #pragma GCC optimize("unroll-loops")

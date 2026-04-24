@@ -1,6 +1,8 @@
-// Problem ID: 732A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/732/problem/A
+/*
+ * Problem: 732A - Buy a Shovel
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/732/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

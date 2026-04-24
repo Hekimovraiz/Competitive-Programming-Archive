@@ -1,6 +1,8 @@
-// Problem ID: 208A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/208/problem/A
+/*
+ * Problem: 208A - Dubstep
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/208/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

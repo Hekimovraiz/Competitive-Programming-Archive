@@ -1,6 +1,8 @@
-// Problem ID: 919B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/919/problem/B
+/*
+ * Problem: 919B - Perfect Number
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/919/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

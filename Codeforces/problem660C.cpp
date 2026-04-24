@@ -1,6 +1,8 @@
-// Problem ID: 660C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/660/problem/C
+/*
+ * Problem: 660C - Hard Process
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/660/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

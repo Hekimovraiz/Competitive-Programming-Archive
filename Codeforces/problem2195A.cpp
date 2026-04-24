@@ -1,6 +1,8 @@
-// Problem ID: 2195A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2195/problem/A
+/*
+ * Problem: 2195A - Sieve of Erato67henes
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2195/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

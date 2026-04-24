@@ -1,6 +1,8 @@
-// Problem ID: 231A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/231/problem/A
+/*
+ * Problem: 231A - Team
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/231/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

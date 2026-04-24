@@ -1,6 +1,8 @@
-// Problem ID: 80A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/80/problem/A
+/*
+ * Problem: 80A - Panoramix's Prediction
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/80/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

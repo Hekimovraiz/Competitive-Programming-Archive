@@ -1,6 +1,8 @@
-// Problem ID: 2051C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2051/problem/C
+/*
+ * Problem: 2051C - Preparing for the Exam
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2051/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

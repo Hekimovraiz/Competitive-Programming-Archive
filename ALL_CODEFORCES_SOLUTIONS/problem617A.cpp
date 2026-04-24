@@ -1,6 +1,8 @@
-// Problem ID: 617A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/617/problem/A
+/*
+ * Problem: 617A - Elephant
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/617/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

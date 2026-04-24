@@ -1,6 +1,8 @@
-// Problem ID: 2193C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2193/problem/C
+/*
+ * Problem: 2193C - Replace and Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2193/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

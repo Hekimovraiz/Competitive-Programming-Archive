@@ -1,6 +1,8 @@
-// Problem ID: 1837A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1837/problem/A
+/*
+ * Problem: 1837A - Grasshopper on a Line
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1837/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

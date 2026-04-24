@@ -1,6 +1,8 @@
-// Problem ID: 1856B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1856/problem/B
+/*
+ * Problem: 1856B - Good Arrays
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1856/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

@@ -1,6 +1,8 @@
-// Problem ID: 1520B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1520/problem/B
+/*
+ * Problem: 1520B - Ordinary Numbers
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1520/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

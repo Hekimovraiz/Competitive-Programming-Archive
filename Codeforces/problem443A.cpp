@@ -1,6 +1,8 @@
-// Problem ID: 443A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/443/problem/A
+/*
+ * Problem: 443A - Anton and Letters
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/443/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);

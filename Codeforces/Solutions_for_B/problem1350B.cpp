@@ -1,6 +1,8 @@
-// Problem ID: 1350B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1350/problem/B
+/*
+ * Problem: 1350B - Orac and Models
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1350/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

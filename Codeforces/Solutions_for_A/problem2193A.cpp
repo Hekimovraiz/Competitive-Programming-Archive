@@ -1,6 +1,8 @@
-// Problem ID: 2193A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2193/problem/A
+/*
+ * Problem: 2193A - DBMB and the Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2193/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

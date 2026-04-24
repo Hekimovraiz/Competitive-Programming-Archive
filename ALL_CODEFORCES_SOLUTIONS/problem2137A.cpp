@@ -1,6 +1,8 @@
-// Problem ID: 2137A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2137/problem/A
+/*
+ * Problem: 2137A - Collatz Conjecture
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2137/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

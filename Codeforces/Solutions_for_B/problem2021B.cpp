@@ -1,6 +1,8 @@
-// Problem ID: 2021B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2021/problem/B
+/*
+ * Problem: 2021B - Maximize Mex
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2021/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

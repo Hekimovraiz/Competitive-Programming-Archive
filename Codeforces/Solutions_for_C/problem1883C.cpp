@@ -1,6 +1,8 @@
-// Problem ID: 1883C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1883/problem/C
+/*
+ * Problem: 1883C - Raspberries
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1883/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

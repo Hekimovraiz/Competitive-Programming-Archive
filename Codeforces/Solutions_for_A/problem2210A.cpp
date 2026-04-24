@@ -1,6 +1,8 @@
-// Problem ID: 2210A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2210/problem/A
+/*
+ * Problem: 2210A - A Simple Sequence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2210/problem/A
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

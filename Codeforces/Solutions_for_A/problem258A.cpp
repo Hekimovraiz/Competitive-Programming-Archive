@@ -1,6 +1,8 @@
-// Problem ID: 258A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/258/problem/A
+/*
+ * Problem: 258A - Little Elephant and Bits
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/258/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

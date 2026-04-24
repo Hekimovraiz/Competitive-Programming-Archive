@@ -1,6 +1,8 @@
-// Problem ID: 2163A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2163/problem/A
+/*
+ * Problem: 2163A - Souvlaki VS. Kalamaki
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2163/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1669B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1669/problem/B
+/*
+ * Problem: 1669B - Triple
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1669/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

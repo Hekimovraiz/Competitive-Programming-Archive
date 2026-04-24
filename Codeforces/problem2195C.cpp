@@ -1,6 +1,8 @@
-// Problem ID: 2195C
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2195/problem/C
+/*
+ * Problem: 2195C - Dice Roll Sequence
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2195/problem/C
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

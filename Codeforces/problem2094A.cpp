@@ -1,6 +1,8 @@
-// Problem ID: 2094A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2094/problem/A
+/*
+ * Problem: 2094A - Trippi Troppi
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2094/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 116A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/116/problem/A
+/*
+ * Problem: 116A - Tram
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/116/problem/A
+ */
 
 #include <bits/stdc++.h>
 #define int long long

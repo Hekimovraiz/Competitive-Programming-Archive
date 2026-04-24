@@ -1,6 +1,8 @@
-// Problem ID: 2185B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2185/problem/B
+/*
+ * Problem: 2185B - Prefix Max
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2185/problem/B
+ */
 
 // Author: Raiz
 #include <bits/stdc++.h>

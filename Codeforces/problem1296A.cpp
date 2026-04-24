@@ -1,6 +1,8 @@
-// Problem ID: 1296A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1296/problem/A
+/*
+ * Problem: 1296A - Array with Odd Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1296/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,6 +1,8 @@
-// Problem ID: 1367B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1367/problem/B
+/*
+ * Problem: 1367B - Even Array
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1367/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

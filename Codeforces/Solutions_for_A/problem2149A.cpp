@@ -1,6 +1,8 @@
-// Problem ID: 2149A
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/2149/problem/A
+/*
+ * Problem: 2149A - Be Positive
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2149/problem/A
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

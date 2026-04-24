@@ -1,6 +1,8 @@
-// Problem ID: 1985B
-// Platform: Codeforces
-// Link: https://codeforces.com/contest/1985/problem/B
+/*
+ * Problem: 1985B - Maximum Multiple Sum
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1985/problem/B
+ */
 
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

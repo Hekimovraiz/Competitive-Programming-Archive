@@ -1,3 +1,8 @@
+/*
+ * Problem: 71A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/71/problem/A
+ */
 #include <bits/stdc++.h>
 using namespace std;
  

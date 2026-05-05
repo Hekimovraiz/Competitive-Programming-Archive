@@ -8,7 +8,7 @@ Welcome to my personal archive of solved problems across various competitive pro
 
 | Platform      | Problems Solved |
 |---------------|----------------|
-| Codeforces | 474 |
+| Codeforces | 498 |
 | EOlymp | 346 |
 | AtCoder | 58 |
 | CSES | 35 |
@@ -23,14 +23,18 @@ Welcome to my personal archive of solved problems across various competitive pro
 | USACO | 1 |
 | VNOJ | 1 |
 | Yosupo | 1 |
-| **Total**     | **957** |
+| **Total**     | **981** |
 
 
 ---
 
-## 🛠️ My Template
+## 🛠️ My Templates & Tools
 
-I use a standard C++ template for all my competitive programming solutions. You can find it here: [template.cpp](./template.cpp)
+I use standard C++ templates and optimization macros for my competitive programming solutions:
+
+- **Main Template:** [`template.cpp`](./template.cpp)
+- **Advanced Template/Headers:** [`Template.h`](./Template.h)
+- **GCC Optimizations:** [`Optimizations.cpp`](./Optimizations.cpp)
 
 ---
 

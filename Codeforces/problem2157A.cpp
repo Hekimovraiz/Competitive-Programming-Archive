@@ -1,3 +1,8 @@
+/*
+ * Problem: 2157A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2157/problem/A
+ */
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

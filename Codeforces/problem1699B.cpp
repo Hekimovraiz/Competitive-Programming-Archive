@@ -1,3 +1,8 @@
+/*
+ * Problem: 1699B
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1699/problem/B
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

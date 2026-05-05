@@ -1,495 +1,508 @@
-# Codeforces Solutions
+# 🚀 Codeforces Solutions
 
-Total unique problems solved: **474**
+This directory contains my accepted solutions to Codeforces problems.
 
-## 📁 Categories
+## 📝 Solved Problems List
 
-- [**Category A**](./Solutions_for_A) (266 problems)
-- [**Category B**](./Solutions_for_B) (116 problems)
-- [**Category C**](./Solutions_for_C) (53 problems)
-- [**Category D**](./Solutions_for_D) (20 problems)
-- [**Category E**](./Solutions_for_E) (5 problems)
-- [**Category F**](./Solutions_for_F) (7 problems)
-- [**Category G**](./Solutions_for_G) (3 problems)
-- [**Category H**](./Solutions_for_H) (2 problems)
-- [**Category J**](./Solutions_for_J) (1 problems)
-- [**Category M**](./Solutions_for_M) (1 problems)
+**Total Solved:** 498
 
-## 📄 Solutions List
-
-| # | Problem ID | Link |
-|---|------------|------|
-| 1 | 1006B | N/A |
-| 2 | 1006C | N/A |
-| 3 | 102267B | N/A |
-| 4 | 102361D | N/A |
-| 5 | 1028B | N/A |
-| 6 | 103055A | N/A |
-| 7 | 1030A | N/A |
-| 8 | 103373B | N/A |
-| 9 | 1042D | N/A |
-| 10 | 1097A | N/A |
-| 11 | 1097B | N/A |
-| 12 | 110A | N/A |
-| 13 | 112A | N/A |
-| 14 | 1133C | N/A |
-| 15 | 1154A | N/A |
-| 16 | 116A | N/A |
-| 17 | 1178D | N/A |
-| 18 | 1180A | N/A |
-| 19 | 1182A | N/A |
-| 20 | 1186A | N/A |
-| 21 | 118A | N/A |
-| 22 | 122A | N/A |
-| 23 | 1234D | N/A |
-| 24 | 1238A | N/A |
-| 25 | 124A | N/A |
-| 26 | 1283A | N/A |
-| 27 | 1283B | N/A |
-| 28 | 1285C | N/A |
-| 29 | 1294A | N/A |
-| 30 | 1294C | N/A |
-| 31 | 1296A | N/A |
-| 32 | 12A | N/A |
-| 33 | 1304A | N/A |
-| 34 | 1311A | N/A |
-| 35 | 131A | N/A |
-| 36 | 1324D | N/A |
-| 37 | 1325A | N/A |
-| 38 | 1327A | N/A |
-| 39 | 1328A | N/A |
-| 40 | 1335A | N/A |
-| 41 | 1335B | N/A |
-| 42 | 1339A | N/A |
-| 43 | 133A | N/A |
-| 44 | 1342A | N/A |
-| 45 | 1343A | N/A |
-| 46 | 1343B | N/A |
-| 47 | 1343C | N/A |
-| 48 | 1350B | N/A |
-| 49 | 1352A | N/A |
-| 50 | 1352B | N/A |
-| 51 | 1352C | N/A |
-| 52 | 1353A | N/A |
-| 53 | 1353B | N/A |
-| 54 | 1358A | N/A |
-| 55 | 1360A | N/A |
-| 56 | 1360B | N/A |
-| 57 | 1367A | N/A |
-| 58 | 1367B | N/A |
-| 59 | 1368A | N/A |
-| 60 | 1370A | N/A |
-| 61 | 1371A | N/A |
-| 62 | 1373B | N/A |
-| 63 | 1374A | N/A |
-| 64 | 1374B | N/A |
-| 65 | 1374C | N/A |
-| 66 | 1389A | N/A |
-| 67 | 1399A | N/A |
-| 68 | 1399B | N/A |
-| 69 | 1400A | N/A |
-| 70 | 1406B | N/A |
-| 71 | 1409A | N/A |
-| 72 | 1411B | N/A |
-| 73 | 141A | N/A |
-| 74 | 1426A | N/A |
-| 75 | 1433A | N/A |
-| 76 | 144A | N/A |
-| 77 | 1454A | N/A |
-| 78 | 1462A | N/A |
-| 79 | 1468C | N/A |
-| 80 | 1470A | N/A |
-| 81 | 1472A | N/A |
-| 82 | 1472B | N/A |
-| 83 | 1472C | N/A |
-| 84 | 1475A | N/A |
-| 85 | 1475B | N/A |
-| 86 | 1476A | N/A |
-| 87 | 1486A | N/A |
-| 88 | 148A | N/A |
-| 89 | 1497C1 | N/A |
-| 90 | 1497C2 | N/A |
-| 91 | 149A | N/A |
-| 92 | 1512A | N/A |
-| 93 | 1517A | N/A |
-| 94 | 1519D | N/A |
-| 95 | 151A | N/A |
-| 96 | 1520A | N/A |
-| 97 | 1520B | N/A |
-| 98 | 1520D | N/A |
-| 99 | 1521A | N/A |
-| 100 | 1526B | N/A |
-| 101 | 1526C1 | N/A |
-| 102 | 1526C2 | N/A |
-| 103 | 1535A | N/A |
-| 104 | 1538A | N/A |
-| 105 | 1538C | N/A |
-| 106 | 1538F | N/A |
-| 107 | 1539B | N/A |
-| 108 | 1542A | N/A |
-| 109 | 1551A | N/A |
-| 110 | 1560A | N/A |
-| 111 | 1579A | N/A |
-| 112 | 158A | N/A |
-| 113 | 158B | N/A |
-| 114 | 160A | N/A |
-| 115 | 1624A | N/A |
-| 116 | 1624B | N/A |
-| 117 | 1665A | N/A |
-| 118 | 1669B | N/A |
-| 119 | 1669F | N/A |
-| 120 | 1669G | N/A |
-| 121 | 1676B | N/A |
-| 122 | 1690D | N/A |
-| 123 | 1692A | N/A |
-| 124 | 1692E | N/A |
-| 125 | 1692F | N/A |
-| 126 | 1699B | N/A |
-| 127 | 16A | N/A |
-| 128 | 1703B | N/A |
-| 129 | 1703F | N/A |
-| 130 | 1709B | N/A |
-| 131 | 1722A | N/A |
-| 132 | 1722B | N/A |
-| 133 | 1729A | N/A |
-| 134 | 1729D | N/A |
-| 135 | 1734C | N/A |
-| 136 | 1742A | N/A |
-| 137 | 1742B | N/A |
-| 138 | 1760A | N/A |
-| 139 | 1760B | N/A |
-| 140 | 177A2 | N/A |
-| 141 | 1783A | N/A |
-| 142 | 1788A | N/A |
-| 143 | 1791A | N/A |
-| 144 | 1791B | N/A |
-| 145 | 1791C | N/A |
-| 146 | 1791D | N/A |
-| 147 | 1800C1 | N/A |
-| 148 | 1800C2 | N/A |
-| 149 | 1807A | N/A |
-| 150 | 1807B | N/A |
-| 151 | 1807D | N/A |
-| 152 | 1810C | N/A |
-| 153 | 1814A | N/A |
-| 154 | 1829A | N/A |
-| 155 | 1829B | N/A |
-| 156 | 1832B | N/A |
-| 157 | 1837A | N/A |
-| 158 | 1837B | N/A |
-| 159 | 1840C | N/A |
-| 160 | 1850A | N/A |
-| 161 | 1850B | N/A |
-| 162 | 1850C | N/A |
-| 163 | 1850D | N/A |
-| 164 | 1850F | N/A |
-| 165 | 1853A | N/A |
-| 166 | 1855B | N/A |
-| 167 | 1856B | N/A |
-| 168 | 1857A | N/A |
-| 169 | 1857F | N/A |
-| 170 | 1858A | N/A |
-| 171 | 1859A | N/A |
-| 172 | 1859B | N/A |
-| 173 | 1862A | N/A |
-| 174 | 1862B | N/A |
-| 175 | 1866A | N/A |
-| 176 | 1873A | N/A |
-| 177 | 1873B | N/A |
-| 178 | 1873C | N/A |
-| 179 | 1873E | N/A |
-| 180 | 1877A | N/A |
-| 181 | 1878C | N/A |
-| 182 | 1881A | N/A |
-| 183 | 1883B | N/A |
-| 184 | 1883C | N/A |
-| 185 | 1890A | N/A |
-| 186 | 1896A | N/A |
-| 187 | 1899A | N/A |
-| 188 | 189A | N/A |
-| 189 | 1900A | N/A |
-| 190 | 1901A | N/A |
-| 191 | 1903A | N/A |
-| 192 | 1913B | N/A |
-| 193 | 1915A | N/A |
-| 194 | 1915B | N/A |
-| 195 | 1916B | N/A |
-| 196 | 1917B | N/A |
-| 197 | 1921A | N/A |
-| 198 | 1926A | N/A |
-| 199 | 1926C | N/A |
-| 200 | 1927A | N/A |
-| 201 | 1927D | N/A |
-| 202 | 192A | N/A |
-| 203 | 1931D | N/A |
-| 204 | 1934B | N/A |
-| 205 | 1941A | N/A |
-| 206 | 1941C | N/A |
-| 207 | 1950B | N/A |
-| 208 | 1950C | N/A |
-| 209 | 1954A | N/A |
-| 210 | 1955A | N/A |
-| 211 | 1971A | N/A |
-| 212 | 1971B | N/A |
-| 213 | 1980A | N/A |
-| 214 | 1985A | N/A |
-| 215 | 1985B | N/A |
-| 216 | 1985C | N/A |
-| 217 | 1985D | N/A |
-| 218 | 1986A | N/A |
-| 219 | 1992A | N/A |
-| 220 | 1996A | N/A |
-| 221 | 1998B | N/A |
-| 222 | 1999B | N/A |
-| 223 | 1A | N/A |
-| 224 | 2000A | N/A |
-| 225 | 2000B | N/A |
-| 226 | 2009A | N/A |
-| 227 | 2009B | N/A |
-| 228 | 200B | N/A |
-| 229 | 2014A | N/A |
-| 230 | 2021B | N/A |
-| 231 | 2044A | N/A |
-| 232 | 2044B | N/A |
-| 233 | 2044C | N/A |
-| 234 | 2051C | N/A |
-| 235 | 2057H | N/A |
-| 236 | 2065A | N/A |
-| 237 | 2074A | N/A |
-| 238 | 208A | N/A |
-| 239 | 2091C | N/A |
-| 240 | 2093E | N/A |
-| 241 | 2094A | N/A |
-| 242 | 2098A | N/A |
-| 243 | 2098B | N/A |
-| 244 | 2114A | N/A |
-| 245 | 2117A | N/A |
-| 246 | 2125A | N/A |
-| 247 | 2126A | N/A |
-| 248 | 2130A | N/A |
-| 249 | 2134B | N/A |
-| 250 | 2134C | N/A |
-| 251 | 2137A | N/A |
-| 252 | 2137B | N/A |
-| 253 | 2139A | N/A |
-| 254 | 2145A | N/A |
-| 255 | 2145C | N/A |
-| 256 | 2148A | N/A |
-| 257 | 2148C | N/A |
-| 258 | 2149A | N/A |
-| 259 | 2157A | N/A |
-| 260 | 2157B | N/A |
-| 261 | 2158A | N/A |
-| 262 | 2158B | N/A |
-| 263 | 2161A | N/A |
-| 264 | 2162A | N/A |
-| 265 | 2162B | N/A |
-| 266 | 2163A | N/A |
-| 267 | 2164A | N/A |
-| 268 | 2164B | N/A |
-| 269 | 2166A | N/A |
-| 270 | 2166B | N/A |
-| 271 | 2166C | N/A |
-| 272 | 2167B | N/A |
-| 273 | 2167C | N/A |
-| 274 | 2170A | N/A |
-| 275 | 2170B | N/A |
-| 276 | 2171A | N/A |
-| 277 | 2171B | N/A |
-| 278 | 2171C1 | N/A |
-| 279 | 2176C | N/A |
-| 280 | 2178A | N/A |
-| 281 | 2178B | N/A |
-| 282 | 2178C | N/A |
-| 283 | 2179A | N/A |
-| 284 | 2179B | N/A |
-| 285 | 2180A | N/A |
-| 286 | 2180 | N/A |
-| 287 | 2181A | N/A |
-| 288 | 2181B | N/A |
-| 289 | 2181D | N/A |
-| 290 | 2181F | N/A |
-| 291 | 2181G | N/A |
-| 292 | 2181H | N/A |
-| 293 | 2181J | N/A |
-| 294 | 2181M | N/A |
-| 295 | 2182A | N/A |
-| 296 | 2182B | N/A |
-| 297 | 2182C | N/A |
-| 298 | 2183A | N/A |
-| 299 | 2183B | N/A |
-| 300 | 2184A | N/A |
-| 301 | 2184B | N/A |
-| 302 | 2185A | N/A |
-| 303 | 2185B | N/A |
-| 304 | 2185C | N/A |
-| 305 | 2185D | N/A |
-| 306 | 2188A | N/A |
-| 307 | 2188B | N/A |
-| 308 | 2191A | N/A |
-| 309 | 2191B | N/A |
-| 310 | 2193A | N/A |
-| 311 | 2193B | N/A |
-| 312 | 2193C | N/A |
-| 313 | 2193D | N/A |
-| 314 | 2194A | N/A |
-| 315 | 2194B | N/A |
-| 316 | 2195A | N/A |
-| 317 | 2195B | N/A |
-| 318 | 2195C | N/A |
-| 319 | 2200A | N/A |
-| 320 | 2200B | N/A |
-| 321 | 2200C | N/A |
-| 322 | 2202A | N/A |
-| 323 | 2202B | N/A |
-| 324 | 2202C1 | N/A |
-| 325 | 2203A | N/A |
-| 326 | 2203B | N/A |
-| 327 | 2205A | N/A |
-| 328 | 2205B | N/A |
-| 329 | 2210A | N/A |
-| 330 | 2211A | N/A |
-| 331 | 2211B | N/A |
-| 332 | 22A | N/A |
-| 333 | 230A | N/A |
-| 334 | 230B | N/A |
-| 335 | 231A | N/A |
-| 336 | 233A | N/A |
-| 337 | 236 | N/A |
-| 338 | 258A | N/A |
-| 339 | 25A | N/A |
-| 340 | 263A | N/A |
-| 341 | 266A | N/A |
-| 342 | 266B | N/A |
-| 343 | 268A | N/A |
-| 344 | 26B | N/A |
-| 345 | 270A | N/A |
-| 346 | 271A | N/A |
-| 347 | 278A | N/A |
-| 348 | 279B | N/A |
-| 349 | 27A | N/A |
-| 350 | 281A | N/A |
-| 351 | 282A | N/A |
-| 352 | 282C | N/A |
-| 353 | 304A | N/A |
-| 354 | 313A | N/A |
-| 355 | 313B | N/A |
-| 356 | 318A | N/A |
-| 357 | 320A | N/A |
-| 358 | 327A | N/A |
-| 359 | 32B | N/A |
-| 360 | 337A | N/A |
-| 361 | 339A | N/A |
-| 362 | 339B | N/A |
-| 363 | 344A | N/A |
-| 364 | 34B | N/A |
-| 365 | 363B | N/A |
-| 366 | 368B | N/A |
-| 367 | 379A | N/A |
-| 368 | 37A | N/A |
-| 369 | 381A | N/A |
-| 370 | 38A | N/A |
-| 371 | 405A | N/A |
-| 372 | 41A | N/A |
-| 373 | 427A | N/A |
-| 374 | 431A | N/A |
-| 375 | 432A | N/A |
-| 376 | 433B | N/A |
-| 377 | 43A | N/A |
-| 378 | 443A | N/A |
-| 379 | 450A | N/A |
-| 380 | 451A | N/A |
-| 381 | 451B | N/A |
-| 382 | 455A | N/A |
-| 383 | 456A | N/A |
-| 384 | 459B | N/A |
-| 385 | 460A | N/A |
-| 386 | 466A | N/A |
-| 387 | 466C | N/A |
-| 388 | 467A | N/A |
-| 389 | 469A | N/A |
-| 390 | 472A | N/A |
-| 391 | 474A | N/A |
-| 392 | 474B | N/A |
-| 393 | 476A | N/A |
-| 394 | 479A | N/A |
-| 395 | 486A | N/A |
-| 396 | 489B | N/A |
-| 397 | 489C | N/A |
-| 398 | 490A | N/A |
-| 399 | 492A | N/A |
-| 400 | 492B | N/A |
-| 401 | 499B | N/A |
-| 402 | 4A | N/A |
-| 403 | 4C | N/A |
-| 404 | 500A | N/A |
-| 405 | 509A | N/A |
-| 406 | 50A | N/A |
-| 407 | 510A | N/A |
-| 408 | 514A | N/A |
-| 409 | 519B | N/A |
-| 410 | 520A | N/A |
-| 411 | 520B | N/A |
-| 412 | 545D | N/A |
-| 413 | 546A | N/A |
-| 414 | 550A | N/A |
-| 415 | 550B | N/A |
-| 416 | 556A | N/A |
-| 417 | 577A | N/A |
-| 418 | 579A | N/A |
-| 419 | 580A | N/A |
-| 420 | 580C | N/A |
-| 421 | 581A | N/A |
-| 422 | 584A | N/A |
-| 423 | 58A | N/A |
-| 424 | 59A | N/A |
-| 425 | 609A | N/A |
-| 426 | 617A | N/A |
-| 427 | 61A | N/A |
-| 428 | 61E | N/A |
-| 429 | 630A | N/A |
-| 430 | 637B | N/A |
-| 431 | 660C | N/A |
-| 432 | 664A | N/A |
-| 433 | 677A | N/A |
-| 434 | 682A | N/A |
-| 435 | 69A | N/A |
-| 436 | 702A | N/A |
-| 437 | 703A | N/A |
-| 438 | 705A | N/A |
-| 439 | 707A | N/A |
-| 440 | 71A | N/A |
-| 441 | 723A | N/A |
-| 442 | 731A | N/A |
-| 443 | 732A | N/A |
-| 444 | 734A | N/A |
-| 445 | 742A | N/A |
-| 446 | 749A | N/A |
-| 447 | 750A | N/A |
-| 448 | 754A | N/A |
-| 449 | 758A | N/A |
-| 450 | 785A | N/A |
-| 451 | 791A | N/A |
-| 452 | 80A | N/A |
-| 453 | 854A | N/A |
-| 454 | 855A | N/A |
-| 455 | 865D | N/A |
-| 456 | 894A | N/A |
-| 457 | 896E | N/A |
-| 458 | 903C | N/A |
-| 459 | 910A | N/A |
-| 460 | 914A | N/A |
-| 461 | 918B | N/A |
-| 462 | 919B | N/A |
-| 463 | 926G | N/A |
-| 464 | 935A | N/A |
-| 465 | 959A | N/A |
-| 466 | 96A | N/A |
-| 467 | 96B | N/A |
-| 468 | 977A | N/A |
-| 469 | 977B | N/A |
-| 470 | 977C | N/A |
-| 471 | 996A | N/A |
-| 472 | 996B | N/A |
-| 473 | 998B | N/A |
-| 474 | 9A | N/A |
+| # | Contest ID | Index | Problem Link | Solution |
+|---|------------|-------|--------------|----------|
+| 1 | 1 | A | [Link](https://codeforces.com/contest/1/problem/A) | [Solution](./problem1A.cpp) |
+| 2 | 2 | A | [Link](https://codeforces.com/contest/2/problem/A) | [Solution](./problem2A.cpp) |
+| 3 | 3 | A | [Link](https://codeforces.com/contest/3/problem/A) | [Solution](./problem3A.cpp) |
+| 4 | 4 | A | [Link](https://codeforces.com/contest/4/problem/A) | [Solution](./problem4A.cpp) |
+| 5 | 4 | C | [Link](https://codeforces.com/contest/4/problem/C) | [Solution](./problem4C.cpp) |
+| 6 | 9 | A | [Link](https://codeforces.com/contest/9/problem/A) | [Solution](./problem9A.cpp) |
+| 7 | 12 | A | [Link](https://codeforces.com/contest/12/problem/A) | [Solution](./problem12A.cpp) |
+| 8 | 16 | A | [Link](https://codeforces.com/contest/16/problem/A) | [Solution](./problem16A.cpp) |
+| 9 | 20 | A | [Link](https://codeforces.com/contest/20/problem/A) | [Solution](./problem20A.cpp) |
+| 10 | 22 | A | [Link](https://codeforces.com/contest/22/problem/A) | [Solution](./problem22A.cpp) |
+| 11 | 25 | A | [Link](https://codeforces.com/contest/25/problem/A) | [Solution](./problem25A.cpp) |
+| 12 | 26 | B | [Link](https://codeforces.com/contest/26/problem/B) | [Solution](./problem26B.cpp) |
+| 13 | 27 | A | [Link](https://codeforces.com/contest/27/problem/A) | [Solution](./problem27A.cpp) |
+| 14 | 30 | A | [Link](https://codeforces.com/contest/30/problem/A) | [Solution](./problem30A.cpp) |
+| 15 | 32 | B | [Link](https://codeforces.com/contest/32/problem/B) | [Solution](./problem32B.cpp) |
+| 16 | 34 | B | [Link](https://codeforces.com/contest/34/problem/B) | [Solution](./problem34B.cpp) |
+| 17 | 37 | A | [Link](https://codeforces.com/contest/37/problem/A) | [Solution](./problem37A.cpp) |
+| 18 | 38 | A | [Link](https://codeforces.com/contest/38/problem/A) | [Solution](./problem38A.cpp) |
+| 19 | 41 | A | [Link](https://codeforces.com/contest/41/problem/A) | [Solution](./problem41A.cpp) |
+| 20 | 43 | A | [Link](https://codeforces.com/contest/43/problem/A) | [Solution](./problem43A.cpp) |
+| 21 | 50 | A | [Link](https://codeforces.com/contest/50/problem/A) | [Solution](./problem50A.cpp) |
+| 22 | 58 | A | [Link](https://codeforces.com/contest/58/problem/A) | [Solution](./problem58A.cpp) |
+| 23 | 59 | A | [Link](https://codeforces.com/contest/59/problem/A) | [Solution](./problem59A.cpp) |
+| 24 | 61 | A | [Link](https://codeforces.com/contest/61/problem/A) | [Solution](./problem61A.cpp) |
+| 25 | 61 | E | [Link](https://codeforces.com/contest/61/problem/E) | [Solution](./problem61E.cpp) |
+| 26 | 69 | A | [Link](https://codeforces.com/contest/69/problem/A) | [Solution](./problem69A.cpp) |
+| 27 | 71 | A | [Link](https://codeforces.com/contest/71/problem/A) | [Solution](./problem71A.cpp) |
+| 28 | 80 | A | [Link](https://codeforces.com/contest/80/problem/A) | [Solution](./problem80A.cpp) |
+| 29 | 96 | A | [Link](https://codeforces.com/contest/96/problem/A) | [Solution](./problem96A.cpp) |
+| 30 | 96 | B | [Link](https://codeforces.com/contest/96/problem/B) | [Solution](./problem96B.cpp) |
+| 31 | 110 | A | [Link](https://codeforces.com/contest/110/problem/A) | [Solution](./problem110A.cpp) |
+| 32 | 112 | A | [Link](https://codeforces.com/contest/112/problem/A) | [Solution](./problem112A.cpp) |
+| 33 | 116 | A | [Link](https://codeforces.com/contest/116/problem/A) | [Solution](./problem116A.cpp) |
+| 34 | 118 | A | [Link](https://codeforces.com/contest/118/problem/A) | [Solution](./problem118A.cpp) |
+| 35 | 122 | A | [Link](https://codeforces.com/contest/122/problem/A) | [Solution](./problem122A.cpp) |
+| 36 | 124 | A | [Link](https://codeforces.com/contest/124/problem/A) | [Solution](./problem124A.cpp) |
+| 37 | 131 | A | [Link](https://codeforces.com/contest/131/problem/A) | [Solution](./problem131A.cpp) |
+| 38 | 133 | A | [Link](https://codeforces.com/contest/133/problem/A) | [Solution](./problem133A.cpp) |
+| 39 | 141 | A | [Link](https://codeforces.com/contest/141/problem/A) | [Solution](./problem141A.cpp) |
+| 40 | 144 | A | [Link](https://codeforces.com/contest/144/problem/A) | [Solution](./problem144A.cpp) |
+| 41 | 148 | A | [Link](https://codeforces.com/contest/148/problem/A) | [Solution](./problem148A.cpp) |
+| 42 | 149 | A | [Link](https://codeforces.com/contest/149/problem/A) | [Solution](./problem149A.cpp) |
+| 43 | 151 | A | [Link](https://codeforces.com/contest/151/problem/A) | [Solution](./problem151A.cpp) |
+| 44 | 158 | A | [Link](https://codeforces.com/contest/158/problem/A) | [Solution](./problem158A.cpp) |
+| 45 | 158 | B | [Link](https://codeforces.com/contest/158/problem/B) | [Solution](./problem158B.cpp) |
+| 46 | 160 | A | [Link](https://codeforces.com/contest/160/problem/A) | [Solution](./problem160A.cpp) |
+| 47 | 177 | A2 | [Link](https://codeforces.com/contest/177/problem/A2) | [Solution](./problem177A2.cpp) |
+| 48 | 189 | A | [Link](https://codeforces.com/contest/189/problem/A) | [Solution](./problem189A.cpp) |
+| 49 | 192 | A | [Link](https://codeforces.com/contest/192/problem/A) | [Solution](./problem192A.cpp) |
+| 50 | 200 | B | [Link](https://codeforces.com/contest/200/problem/B) | [Solution](./problem200B.cpp) |
+| 51 | 208 | A | [Link](https://codeforces.com/contest/208/problem/A) | [Solution](./problem208A.cpp) |
+| 52 | 230 | A | [Link](https://codeforces.com/contest/230/problem/A) | [Solution](./problem230A.cpp) |
+| 53 | 230 | B | [Link](https://codeforces.com/contest/230/problem/B) | [Solution](./problem230B.cpp) |
+| 54 | 231 | A | [Link](https://codeforces.com/contest/231/problem/A) | [Solution](./problem231A.cpp) |
+| 55 | 233 | A | [Link](https://codeforces.com/contest/233/problem/A) | [Solution](./problem233A.cpp) |
+| 56 | 245 | D | [Link](https://codeforces.com/contest/245/problem/D) | [Solution](./problem245D.cpp) |
+| 57 | 258 | A | [Link](https://codeforces.com/contest/258/problem/A) | [Solution](./problem258A.cpp) |
+| 58 | 263 | A | [Link](https://codeforces.com/contest/263/problem/A) | [Solution](./problem263A.cpp) |
+| 59 | 266 | A | [Link](https://codeforces.com/contest/266/problem/A) | [Solution](./problem266A.cpp) |
+| 60 | 266 | B | [Link](https://codeforces.com/contest/266/problem/B) | [Solution](./problem266B.cpp) |
+| 61 | 268 | A | [Link](https://codeforces.com/contest/268/problem/A) | [Solution](./problem268A.cpp) |
+| 62 | 270 | A | [Link](https://codeforces.com/contest/270/problem/A) | [Solution](./problem270A.cpp) |
+| 63 | 271 | A | [Link](https://codeforces.com/contest/271/problem/A) | [Solution](./problem271A.cpp) |
+| 64 | 278 | A | [Link](https://codeforces.com/contest/278/problem/A) | [Solution](./problem278A.cpp) |
+| 65 | 278 | C | [Link](https://codeforces.com/contest/278/problem/C) | [Solution](./problem278C.cpp) |
+| 66 | 279 | B | [Link](https://codeforces.com/contest/279/problem/B) | [Solution](./problem279B.cpp) |
+| 67 | 281 | A | [Link](https://codeforces.com/contest/281/problem/A) | [Solution](./problem281A.cpp) |
+| 68 | 282 | A | [Link](https://codeforces.com/contest/282/problem/A) | [Solution](./problem282A.cpp) |
+| 69 | 282 | C | [Link](https://codeforces.com/contest/282/problem/C) | [Solution](./problem282C.cpp) |
+| 70 | 304 | A | [Link](https://codeforces.com/contest/304/problem/A) | [Solution](./problem304A.cpp) |
+| 71 | 313 | A | [Link](https://codeforces.com/contest/313/problem/A) | [Solution](./problem313A.cpp) |
+| 72 | 313 | B | [Link](https://codeforces.com/contest/313/problem/B) | [Solution](./problem313B.cpp) |
+| 73 | 318 | A | [Link](https://codeforces.com/contest/318/problem/A) | [Solution](./problem318A.cpp) |
+| 74 | 320 | A | [Link](https://codeforces.com/contest/320/problem/A) | [Solution](./problem320A.cpp) |
+| 75 | 327 | A | [Link](https://codeforces.com/contest/327/problem/A) | [Solution](./problem327A.cpp) |
+| 76 | 337 | A | [Link](https://codeforces.com/contest/337/problem/A) | [Solution](./problem337A.cpp) |
+| 77 | 339 | A | [Link](https://codeforces.com/contest/339/problem/A) | [Solution](./problem339A.cpp) |
+| 78 | 339 | B | [Link](https://codeforces.com/contest/339/problem/B) | [Solution](./problem339B.cpp) |
+| 79 | 344 | A | [Link](https://codeforces.com/contest/344/problem/A) | [Solution](./problem344A.cpp) |
+| 80 | 363 | B | [Link](https://codeforces.com/contest/363/problem/B) | [Solution](./problem363B.cpp) |
+| 81 | 368 | B | [Link](https://codeforces.com/contest/368/problem/B) | [Solution](./problem368B.cpp) |
+| 82 | 379 | A | [Link](https://codeforces.com/contest/379/problem/A) | [Solution](./problem379A.cpp) |
+| 83 | 381 | A | [Link](https://codeforces.com/contest/381/problem/A) | [Solution](./problem381A.cpp) |
+| 84 | 405 | A | [Link](https://codeforces.com/contest/405/problem/A) | [Solution](./problem405A.cpp) |
+| 85 | 427 | A | [Link](https://codeforces.com/contest/427/problem/A) | [Solution](./problem427A.cpp) |
+| 86 | 431 | A | [Link](https://codeforces.com/contest/431/problem/A) | [Solution](./problem431A.cpp) |
+| 87 | 432 | A | [Link](https://codeforces.com/contest/432/problem/A) | [Solution](./problem432A.cpp) |
+| 88 | 433 | B | [Link](https://codeforces.com/contest/433/problem/B) | [Solution](./problem433B.cpp) |
+| 89 | 443 | A | [Link](https://codeforces.com/contest/443/problem/A) | [Solution](./problem443A.cpp) |
+| 90 | 450 | A | [Link](https://codeforces.com/contest/450/problem/A) | [Solution](./problem450A.cpp) |
+| 91 | 451 | A | [Link](https://codeforces.com/contest/451/problem/A) | [Solution](./problem451A.cpp) |
+| 92 | 451 | B | [Link](https://codeforces.com/contest/451/problem/B) | [Solution](./problem451B.cpp) |
+| 93 | 455 | A | [Link](https://codeforces.com/contest/455/problem/A) | [Solution](./problem455A.cpp) |
+| 94 | 456 | A | [Link](https://codeforces.com/contest/456/problem/A) | [Solution](./problem456A.cpp) |
+| 95 | 459 | B | [Link](https://codeforces.com/contest/459/problem/B) | [Solution](./problem459B.cpp) |
+| 96 | 460 | A | [Link](https://codeforces.com/contest/460/problem/A) | [Solution](./problem460A.cpp) |
+| 97 | 466 | A | [Link](https://codeforces.com/contest/466/problem/A) | [Solution](./problem466A.cpp) |
+| 98 | 466 | C | [Link](https://codeforces.com/contest/466/problem/C) | [Solution](./problem466C.cpp) |
+| 99 | 467 | A | [Link](https://codeforces.com/contest/467/problem/A) | [Solution](./problem467A.cpp) |
+| 100 | 469 | A | [Link](https://codeforces.com/contest/469/problem/A) | [Solution](./problem469A.cpp) |
+| 101 | 472 | A | [Link](https://codeforces.com/contest/472/problem/A) | [Solution](./problem472A.cpp) |
+| 102 | 474 | A | [Link](https://codeforces.com/contest/474/problem/A) | [Solution](./problem474A.cpp) |
+| 103 | 474 | B | [Link](https://codeforces.com/contest/474/problem/B) | [Solution](./problem474B.cpp) |
+| 104 | 476 | A | [Link](https://codeforces.com/contest/476/problem/A) | [Solution](./problem476A.cpp) |
+| 105 | 479 | A | [Link](https://codeforces.com/contest/479/problem/A) | [Solution](./problem479A.cpp) |
+| 106 | 486 | A | [Link](https://codeforces.com/contest/486/problem/A) | [Solution](./problem486A.cpp) |
+| 107 | 489 | B | [Link](https://codeforces.com/contest/489/problem/B) | [Solution](./problem489B.cpp) |
+| 108 | 489 | C | [Link](https://codeforces.com/contest/489/problem/C) | [Solution](./problem489C.cpp) |
+| 109 | 490 | A | [Link](https://codeforces.com/contest/490/problem/A) | [Solution](./problem490A.cpp) |
+| 110 | 492 | A | [Link](https://codeforces.com/contest/492/problem/A) | [Solution](./problem492A.cpp) |
+| 111 | 492 | B | [Link](https://codeforces.com/contest/492/problem/B) | [Solution](./problem492B.cpp) |
+| 112 | 499 | B | [Link](https://codeforces.com/contest/499/problem/B) | [Solution](./problem499B.cpp) |
+| 113 | 500 | A | [Link](https://codeforces.com/contest/500/problem/A) | [Solution](./problem500A.cpp) |
+| 114 | 509 | A | [Link](https://codeforces.com/contest/509/problem/A) | [Solution](./problem509A.cpp) |
+| 115 | 510 | A | [Link](https://codeforces.com/contest/510/problem/A) | [Solution](./problem510A.cpp) |
+| 116 | 514 | A | [Link](https://codeforces.com/contest/514/problem/A) | [Solution](./problem514A.cpp) |
+| 117 | 519 | B | [Link](https://codeforces.com/contest/519/problem/B) | [Solution](./problem519B.cpp) |
+| 118 | 520 | A | [Link](https://codeforces.com/contest/520/problem/A) | [Solution](./problem520A.cpp) |
+| 119 | 520 | B | [Link](https://codeforces.com/contest/520/problem/B) | [Solution](./problem520B.cpp) |
+| 120 | 545 | D | [Link](https://codeforces.com/contest/545/problem/D) | [Solution](./problem545D.cpp) |
+| 121 | 546 | A | [Link](https://codeforces.com/contest/546/problem/A) | [Solution](./problem546A.cpp) |
+| 122 | 550 | A | [Link](https://codeforces.com/contest/550/problem/A) | [Solution](./problem550A.cpp) |
+| 123 | 550 | B | [Link](https://codeforces.com/contest/550/problem/B) | [Solution](./problem550B.cpp) |
+| 124 | 556 | A | [Link](https://codeforces.com/contest/556/problem/A) | [Solution](./problem556A.cpp) |
+| 125 | 577 | A | [Link](https://codeforces.com/contest/577/problem/A) | [Solution](./problem577A.cpp) |
+| 126 | 579 | A | [Link](https://codeforces.com/contest/579/problem/A) | [Solution](./problem579A.cpp) |
+| 127 | 580 | A | [Link](https://codeforces.com/contest/580/problem/A) | [Solution](./problem580A.cpp) |
+| 128 | 580 | C | [Link](https://codeforces.com/contest/580/problem/C) | [Solution](./problem580C.cpp) |
+| 129 | 581 | A | [Link](https://codeforces.com/contest/581/problem/A) | [Solution](./problem581A.cpp) |
+| 130 | 584 | A | [Link](https://codeforces.com/contest/584/problem/A) | [Solution](./problem584A.cpp) |
+| 131 | 609 | A | [Link](https://codeforces.com/contest/609/problem/A) | [Solution](./problem609A.cpp) |
+| 132 | 617 | A | [Link](https://codeforces.com/contest/617/problem/A) | [Solution](./problem617A.cpp) |
+| 133 | 630 | A | [Link](https://codeforces.com/contest/630/problem/A) | [Solution](./problem630A.cpp) |
+| 134 | 637 | B | [Link](https://codeforces.com/contest/637/problem/B) | [Solution](./problem637B.cpp) |
+| 135 | 660 | C | [Link](https://codeforces.com/contest/660/problem/C) | [Solution](./problem660C.cpp) |
+| 136 | 664 | A | [Link](https://codeforces.com/contest/664/problem/A) | [Solution](./problem664A.cpp) |
+| 137 | 677 | A | [Link](https://codeforces.com/contest/677/problem/A) | [Solution](./problem677A.cpp) |
+| 138 | 682 | A | [Link](https://codeforces.com/contest/682/problem/A) | [Solution](./problem682A.cpp) |
+| 139 | 702 | A | [Link](https://codeforces.com/contest/702/problem/A) | [Solution](./problem702A.cpp) |
+| 140 | 703 | A | [Link](https://codeforces.com/contest/703/problem/A) | [Solution](./problem703A.cpp) |
+| 141 | 705 | A | [Link](https://codeforces.com/contest/705/problem/A) | [Solution](./problem705A.cpp) |
+| 142 | 707 | A | [Link](https://codeforces.com/contest/707/problem/A) | [Solution](./problem707A.cpp) |
+| 143 | 723 | A | [Link](https://codeforces.com/contest/723/problem/A) | [Solution](./problem723A.cpp) |
+| 144 | 731 | A | [Link](https://codeforces.com/contest/731/problem/A) | [Solution](./problem731A.cpp) |
+| 145 | 732 | A | [Link](https://codeforces.com/contest/732/problem/A) | [Solution](./problem732A.cpp) |
+| 146 | 734 | A | [Link](https://codeforces.com/contest/734/problem/A) | [Solution](./problem734A.cpp) |
+| 147 | 742 | A | [Link](https://codeforces.com/contest/742/problem/A) | [Solution](./problem742A.cpp) |
+| 148 | 749 | A | [Link](https://codeforces.com/contest/749/problem/A) | [Solution](./problem749A.cpp) |
+| 149 | 750 | A | [Link](https://codeforces.com/contest/750/problem/A) | [Solution](./problem750A.cpp) |
+| 150 | 754 | A | [Link](https://codeforces.com/contest/754/problem/A) | [Solution](./problem754A.cpp) |
+| 151 | 758 | A | [Link](https://codeforces.com/contest/758/problem/A) | [Solution](./problem758A.cpp) |
+| 152 | 785 | A | [Link](https://codeforces.com/contest/785/problem/A) | [Solution](./problem785A.cpp) |
+| 153 | 791 | A | [Link](https://codeforces.com/contest/791/problem/A) | [Solution](./problem791A.cpp) |
+| 154 | 816 | B | [Link](https://codeforces.com/contest/816/problem/B) | [Solution](./problem816B.cpp) |
+| 155 | 854 | A | [Link](https://codeforces.com/contest/854/problem/A) | [Solution](./problem854A.cpp) |
+| 156 | 855 | A | [Link](https://codeforces.com/contest/855/problem/A) | [Solution](./problem855A.cpp) |
+| 157 | 865 | D | [Link](https://codeforces.com/contest/865/problem/D) | [Solution](./problem865D.cpp) |
+| 158 | 894 | A | [Link](https://codeforces.com/contest/894/problem/A) | [Solution](./problem894A.cpp) |
+| 159 | 896 | E | [Link](https://codeforces.com/contest/896/problem/E) | [Solution](./problem896E.cpp) |
+| 160 | 903 | C | [Link](https://codeforces.com/contest/903/problem/C) | [Solution](./problem903C.cpp) |
+| 161 | 910 | A | [Link](https://codeforces.com/contest/910/problem/A) | [Solution](./problem910A.cpp) |
+| 162 | 911 | G | [Link](https://codeforces.com/contest/911/problem/G) | [Solution](./problem911G.cpp) |
+| 163 | 914 | A | [Link](https://codeforces.com/contest/914/problem/A) | [Solution](./problem914A.cpp) |
+| 164 | 918 | B | [Link](https://codeforces.com/contest/918/problem/B) | [Solution](./problem918B.cpp) |
+| 165 | 919 | B | [Link](https://codeforces.com/contest/919/problem/B) | [Solution](./problem919B.cpp) |
+| 166 | 926 | G | [Link](https://codeforces.com/contest/926/problem/G) | [Solution](./problem926G.cpp) |
+| 167 | 935 | A | [Link](https://codeforces.com/contest/935/problem/A) | [Solution](./problem935A.cpp) |
+| 168 | 959 | A | [Link](https://codeforces.com/contest/959/problem/A) | [Solution](./problem959A.cpp) |
+| 169 | 977 | A | [Link](https://codeforces.com/contest/977/problem/A) | [Solution](./problem977A.cpp) |
+| 170 | 977 | B | [Link](https://codeforces.com/contest/977/problem/B) | [Solution](./problem977B.cpp) |
+| 171 | 977 | C | [Link](https://codeforces.com/contest/977/problem/C) | [Solution](./problem977C.cpp) |
+| 172 | 996 | A | [Link](https://codeforces.com/contest/996/problem/A) | [Solution](./problem996A.cpp) |
+| 173 | 996 | B | [Link](https://codeforces.com/contest/996/problem/B) | [Solution](./problem996B.cpp) |
+| 174 | 998 | B | [Link](https://codeforces.com/contest/998/problem/B) | [Solution](./problem998B.cpp) |
+| 175 | 1006 | B | [Link](https://codeforces.com/contest/1006/problem/B) | [Solution](./problem1006B.cpp) |
+| 176 | 1006 | C | [Link](https://codeforces.com/contest/1006/problem/C) | [Solution](./problem1006C.cpp) |
+| 177 | 1028 | B | [Link](https://codeforces.com/contest/1028/problem/B) | [Solution](./problem1028B.cpp) |
+| 178 | 1030 | A | [Link](https://codeforces.com/contest/1030/problem/A) | [Solution](./problem1030A.cpp) |
+| 179 | 1042 | D | [Link](https://codeforces.com/contest/1042/problem/D) | [Solution](./problem1042D.cpp) |
+| 180 | 1097 | A | [Link](https://codeforces.com/contest/1097/problem/A) | [Solution](./problem1097A.cpp) |
+| 181 | 1097 | B | [Link](https://codeforces.com/contest/1097/problem/B) | [Solution](./problem1097B.cpp) |
+| 182 | 1133 | C | [Link](https://codeforces.com/contest/1133/problem/C) | [Solution](./problem1133C.cpp) |
+| 183 | 1154 | A | [Link](https://codeforces.com/contest/1154/problem/A) | [Solution](./problem1154A.cpp) |
+| 184 | 1178 | D | [Link](https://codeforces.com/contest/1178/problem/D) | [Solution](./problem1178D.cpp) |
+| 185 | 1180 | A | [Link](https://codeforces.com/contest/1180/problem/A) | [Solution](./problem1180A.cpp) |
+| 186 | 1182 | A | [Link](https://codeforces.com/contest/1182/problem/A) | [Solution](./problem1182A.cpp) |
+| 187 | 1186 | A | [Link](https://codeforces.com/contest/1186/problem/A) | [Solution](./problem1186A.cpp) |
+| 188 | 1234 | D | [Link](https://codeforces.com/contest/1234/problem/D) | [Solution](./problem1234D.cpp) |
+| 189 | 1238 | A | [Link](https://codeforces.com/contest/1238/problem/A) | [Solution](./problem1238A.cpp) |
+| 190 | 1283 | A | [Link](https://codeforces.com/contest/1283/problem/A) | [Solution](./problem1283A.cpp) |
+| 191 | 1283 | B | [Link](https://codeforces.com/contest/1283/problem/B) | [Solution](./problem1283B.cpp) |
+| 192 | 1285 | C | [Link](https://codeforces.com/contest/1285/problem/C) | [Solution](./problem1285C.cpp) |
+| 193 | 1294 | A | [Link](https://codeforces.com/contest/1294/problem/A) | [Solution](./problem1294A.cpp) |
+| 194 | 1294 | C | [Link](https://codeforces.com/contest/1294/problem/C) | [Solution](./problem1294C.cpp) |
+| 195 | 1296 | A | [Link](https://codeforces.com/contest/1296/problem/A) | [Solution](./problem1296A.cpp) |
+| 196 | 1304 | A | [Link](https://codeforces.com/contest/1304/problem/A) | [Solution](./problem1304A.cpp) |
+| 197 | 1311 | A | [Link](https://codeforces.com/contest/1311/problem/A) | [Solution](./problem1311A.cpp) |
+| 198 | 1324 | D | [Link](https://codeforces.com/contest/1324/problem/D) | [Solution](./problem1324D.cpp) |
+| 199 | 1325 | A | [Link](https://codeforces.com/contest/1325/problem/A) | [Solution](./problem1325A.cpp) |
+| 200 | 1327 | A | [Link](https://codeforces.com/contest/1327/problem/A) | [Solution](./problem1327A.cpp) |
+| 201 | 1328 | A | [Link](https://codeforces.com/contest/1328/problem/A) | [Solution](./problem1328A.cpp) |
+| 202 | 1335 | A | [Link](https://codeforces.com/contest/1335/problem/A) | [Solution](./problem1335A.cpp) |
+| 203 | 1335 | B | [Link](https://codeforces.com/contest/1335/problem/B) | [Solution](./problem1335B.cpp) |
+| 204 | 1339 | A | [Link](https://codeforces.com/contest/1339/problem/A) | [Solution](./problem1339A.cpp) |
+| 205 | 1342 | A | [Link](https://codeforces.com/contest/1342/problem/A) | [Solution](./problem1342A.cpp) |
+| 206 | 1343 | A | [Link](https://codeforces.com/contest/1343/problem/A) | [Solution](./problem1343A.cpp) |
+| 207 | 1343 | B | [Link](https://codeforces.com/contest/1343/problem/B) | [Solution](./problem1343B.cpp) |
+| 208 | 1343 | C | [Link](https://codeforces.com/contest/1343/problem/C) | [Solution](./problem1343C.cpp) |
+| 209 | 1350 | B | [Link](https://codeforces.com/contest/1350/problem/B) | [Solution](./problem1350B.cpp) |
+| 210 | 1352 | A | [Link](https://codeforces.com/contest/1352/problem/A) | [Solution](./problem1352A.cpp) |
+| 211 | 1352 | B | [Link](https://codeforces.com/contest/1352/problem/B) | [Solution](./problem1352B.cpp) |
+| 212 | 1352 | C | [Link](https://codeforces.com/contest/1352/problem/C) | [Solution](./problem1352C.cpp) |
+| 213 | 1353 | A | [Link](https://codeforces.com/contest/1353/problem/A) | [Solution](./problem1353A.cpp) |
+| 214 | 1353 | B | [Link](https://codeforces.com/contest/1353/problem/B) | [Solution](./problem1353B.cpp) |
+| 215 | 1358 | A | [Link](https://codeforces.com/contest/1358/problem/A) | [Solution](./problem1358A.cpp) |
+| 216 | 1360 | A | [Link](https://codeforces.com/contest/1360/problem/A) | [Solution](./problem1360A.cpp) |
+| 217 | 1360 | B | [Link](https://codeforces.com/contest/1360/problem/B) | [Solution](./problem1360B.cpp) |
+| 218 | 1367 | A | [Link](https://codeforces.com/contest/1367/problem/A) | [Solution](./problem1367A.cpp) |
+| 219 | 1367 | B | [Link](https://codeforces.com/contest/1367/problem/B) | [Solution](./problem1367B.cpp) |
+| 220 | 1368 | A | [Link](https://codeforces.com/contest/1368/problem/A) | [Solution](./problem1368A.cpp) |
+| 221 | 1370 | A | [Link](https://codeforces.com/contest/1370/problem/A) | [Solution](./problem1370A.cpp) |
+| 222 | 1371 | A | [Link](https://codeforces.com/contest/1371/problem/A) | [Solution](./problem1371A.cpp) |
+| 223 | 1373 | B | [Link](https://codeforces.com/contest/1373/problem/B) | [Solution](./problem1373B.cpp) |
+| 224 | 1374 | A | [Link](https://codeforces.com/contest/1374/problem/A) | [Solution](./problem1374A.cpp) |
+| 225 | 1374 | B | [Link](https://codeforces.com/contest/1374/problem/B) | [Solution](./problem1374B.cpp) |
+| 226 | 1374 | C | [Link](https://codeforces.com/contest/1374/problem/C) | [Solution](./problem1374C.cpp) |
+| 227 | 1389 | A | [Link](https://codeforces.com/contest/1389/problem/A) | [Solution](./problem1389A.cpp) |
+| 228 | 1399 | A | [Link](https://codeforces.com/contest/1399/problem/A) | [Solution](./problem1399A.cpp) |
+| 229 | 1399 | B | [Link](https://codeforces.com/contest/1399/problem/B) | [Solution](./problem1399B.cpp) |
+| 230 | 1400 | A | [Link](https://codeforces.com/contest/1400/problem/A) | [Solution](./problem1400A.cpp) |
+| 231 | 1406 | B | [Link](https://codeforces.com/contest/1406/problem/B) | [Solution](./problem1406B.cpp) |
+| 232 | 1409 | A | [Link](https://codeforces.com/contest/1409/problem/A) | [Solution](./problem1409A.cpp) |
+| 233 | 1411 | B | [Link](https://codeforces.com/contest/1411/problem/B) | [Solution](./problem1411B.cpp) |
+| 234 | 1426 | A | [Link](https://codeforces.com/contest/1426/problem/A) | [Solution](./problem1426A.cpp) |
+| 235 | 1433 | A | [Link](https://codeforces.com/contest/1433/problem/A) | [Solution](./problem1433A.cpp) |
+| 236 | 1454 | A | [Link](https://codeforces.com/contest/1454/problem/A) | [Solution](./problem1454A.cpp) |
+| 237 | 1462 | A | [Link](https://codeforces.com/contest/1462/problem/A) | [Solution](./problem1462A.cpp) |
+| 238 | 1468 | C | [Link](https://codeforces.com/contest/1468/problem/C) | [Solution](./problem1468C.cpp) |
+| 239 | 1470 | A | [Link](https://codeforces.com/contest/1470/problem/A) | [Solution](./problem1470A.cpp) |
+| 240 | 1472 | A | [Link](https://codeforces.com/contest/1472/problem/A) | [Solution](./problem1472A.cpp) |
+| 241 | 1472 | B | [Link](https://codeforces.com/contest/1472/problem/B) | [Solution](./problem1472B.cpp) |
+| 242 | 1472 | C | [Link](https://codeforces.com/contest/1472/problem/C) | [Solution](./problem1472C.cpp) |
+| 243 | 1475 | A | [Link](https://codeforces.com/contest/1475/problem/A) | [Solution](./problem1475A.cpp) |
+| 244 | 1475 | B | [Link](https://codeforces.com/contest/1475/problem/B) | [Solution](./problem1475B.cpp) |
+| 245 | 1476 | A | [Link](https://codeforces.com/contest/1476/problem/A) | [Solution](./problem1476A.cpp) |
+| 246 | 1486 | A | [Link](https://codeforces.com/contest/1486/problem/A) | [Solution](./problem1486A.cpp) |
+| 247 | 1497 | C1 | [Link](https://codeforces.com/contest/1497/problem/C1) | [Solution](./problem1497C1.cpp) |
+| 248 | 1497 | C2 | [Link](https://codeforces.com/contest/1497/problem/C2) | [Solution](./problem1497C2.cpp) |
+| 249 | 1512 | A | [Link](https://codeforces.com/contest/1512/problem/A) | [Solution](./problem1512A.cpp) |
+| 250 | 1517 | A | [Link](https://codeforces.com/contest/1517/problem/A) | [Solution](./problem1517A.cpp) |
+| 251 | 1519 | D | [Link](https://codeforces.com/contest/1519/problem/D) | [Solution](./problem1519D.cpp) |
+| 252 | 1520 | A | [Link](https://codeforces.com/contest/1520/problem/A) | [Solution](./problem1520A.cpp) |
+| 253 | 1520 | B | [Link](https://codeforces.com/contest/1520/problem/B) | [Solution](./problem1520B.cpp) |
+| 254 | 1520 | D | [Link](https://codeforces.com/contest/1520/problem/D) | [Solution](./problem1520D.cpp) |
+| 255 | 1521 | A | [Link](https://codeforces.com/contest/1521/problem/A) | [Solution](./problem1521A.cpp) |
+| 256 | 1526 | B | [Link](https://codeforces.com/contest/1526/problem/B) | [Solution](./problem1526B.cpp) |
+| 257 | 1526 | C1 | [Link](https://codeforces.com/contest/1526/problem/C1) | [Solution](./problem1526C1.cpp) |
+| 258 | 1526 | C2 | [Link](https://codeforces.com/contest/1526/problem/C2) | [Solution](./problem1526C2.cpp) |
+| 259 | 1535 | A | [Link](https://codeforces.com/contest/1535/problem/A) | [Solution](./problem1535A.cpp) |
+| 260 | 1538 | A | [Link](https://codeforces.com/contest/1538/problem/A) | [Solution](./problem1538A.cpp) |
+| 261 | 1538 | C | [Link](https://codeforces.com/contest/1538/problem/C) | [Solution](./problem1538C.cpp) |
+| 262 | 1538 | F | [Link](https://codeforces.com/contest/1538/problem/F) | [Solution](./problem1538F.cpp) |
+| 263 | 1539 | B | [Link](https://codeforces.com/contest/1539/problem/B) | [Solution](./problem1539B.cpp) |
+| 264 | 1542 | A | [Link](https://codeforces.com/contest/1542/problem/A) | [Solution](./problem1542A.cpp) |
+| 265 | 1551 | A | [Link](https://codeforces.com/contest/1551/problem/A) | [Solution](./problem1551A.cpp) |
+| 266 | 1560 | A | [Link](https://codeforces.com/contest/1560/problem/A) | [Solution](./problem1560A.cpp) |
+| 267 | 1579 | A | [Link](https://codeforces.com/contest/1579/problem/A) | [Solution](./problem1579A.cpp) |
+| 268 | 1624 | A | [Link](https://codeforces.com/contest/1624/problem/A) | [Solution](./problem1624A.cpp) |
+| 269 | 1624 | B | [Link](https://codeforces.com/contest/1624/problem/B) | [Solution](./problem1624B.cpp) |
+| 270 | 1665 | A | [Link](https://codeforces.com/contest/1665/problem/A) | [Solution](./problem1665A.cpp) |
+| 271 | 1669 | B | [Link](https://codeforces.com/contest/1669/problem/B) | [Solution](./problem1669B.cpp) |
+| 272 | 1669 | F | [Link](https://codeforces.com/contest/1669/problem/F) | [Solution](./problem1669F.cpp) |
+| 273 | 1669 | G | [Link](https://codeforces.com/contest/1669/problem/G) | [Solution](./problem1669G.cpp) |
+| 274 | 1676 | B | [Link](https://codeforces.com/contest/1676/problem/B) | [Solution](./problem1676B.cpp) |
+| 275 | 1690 | D | [Link](https://codeforces.com/contest/1690/problem/D) | [Solution](./problem1690D.cpp) |
+| 276 | 1692 | A | [Link](https://codeforces.com/contest/1692/problem/A) | [Solution](./problem1692A.cpp) |
+| 277 | 1692 | E | [Link](https://codeforces.com/contest/1692/problem/E) | [Solution](./problem1692E.cpp) |
+| 278 | 1692 | F | [Link](https://codeforces.com/contest/1692/problem/F) | [Solution](./problem1692F.cpp) |
+| 279 | 1699 | B | [Link](https://codeforces.com/contest/1699/problem/B) | [Solution](./problem1699B.cpp) |
+| 280 | 1703 | B | [Link](https://codeforces.com/contest/1703/problem/B) | [Solution](./problem1703B.cpp) |
+| 281 | 1703 | F | [Link](https://codeforces.com/contest/1703/problem/F) | [Solution](./problem1703F.cpp) |
+| 282 | 1709 | B | [Link](https://codeforces.com/contest/1709/problem/B) | [Solution](./problem1709B.cpp) |
+| 283 | 1722 | A | [Link](https://codeforces.com/contest/1722/problem/A) | [Solution](./problem1722A.cpp) |
+| 284 | 1722 | B | [Link](https://codeforces.com/contest/1722/problem/B) | [Solution](./problem1722B.cpp) |
+| 285 | 1729 | A | [Link](https://codeforces.com/contest/1729/problem/A) | [Solution](./problem1729A.cpp) |
+| 286 | 1729 | D | [Link](https://codeforces.com/contest/1729/problem/D) | [Solution](./problem1729D.cpp) |
+| 287 | 1734 | C | [Link](https://codeforces.com/contest/1734/problem/C) | [Solution](./problem1734C.cpp) |
+| 288 | 1742 | A | [Link](https://codeforces.com/contest/1742/problem/A) | [Solution](./problem1742A.cpp) |
+| 289 | 1742 | B | [Link](https://codeforces.com/contest/1742/problem/B) | [Solution](./problem1742B.cpp) |
+| 290 | 1742 | E | [Link](https://codeforces.com/contest/1742/problem/E) | [Solution](./problem1742E.cpp) |
+| 291 | 1760 | A | [Link](https://codeforces.com/contest/1760/problem/A) | [Solution](./problem1760A.cpp) |
+| 292 | 1760 | B | [Link](https://codeforces.com/contest/1760/problem/B) | [Solution](./problem1760B.cpp) |
+| 293 | 1777 | A | [Link](https://codeforces.com/contest/1777/problem/A) | [Solution](./problem1777A.cpp) |
+| 294 | 1783 | A | [Link](https://codeforces.com/contest/1783/problem/A) | [Solution](./problem1783A.cpp) |
+| 295 | 1788 | A | [Link](https://codeforces.com/contest/1788/problem/A) | [Solution](./problem1788A.cpp) |
+| 296 | 1791 | A | [Link](https://codeforces.com/contest/1791/problem/A) | [Solution](./problem1791A.cpp) |
+| 297 | 1791 | B | [Link](https://codeforces.com/contest/1791/problem/B) | [Solution](./problem1791B.cpp) |
+| 298 | 1791 | C | [Link](https://codeforces.com/contest/1791/problem/C) | [Solution](./problem1791C.cpp) |
+| 299 | 1791 | D | [Link](https://codeforces.com/contest/1791/problem/D) | [Solution](./problem1791D.cpp) |
+| 300 | 1800 | C1 | [Link](https://codeforces.com/contest/1800/problem/C1) | [Solution](./problem1800C1.cpp) |
+| 301 | 1800 | C2 | [Link](https://codeforces.com/contest/1800/problem/C2) | [Solution](./problem1800C2.cpp) |
+| 302 | 1807 | A | [Link](https://codeforces.com/contest/1807/problem/A) | [Solution](./problem1807A.cpp) |
+| 303 | 1807 | B | [Link](https://codeforces.com/contest/1807/problem/B) | [Solution](./problem1807B.cpp) |
+| 304 | 1807 | D | [Link](https://codeforces.com/contest/1807/problem/D) | [Solution](./problem1807D.cpp) |
+| 305 | 1810 | C | [Link](https://codeforces.com/contest/1810/problem/C) | [Solution](./problem1810C.cpp) |
+| 306 | 1814 | A | [Link](https://codeforces.com/contest/1814/problem/A) | [Solution](./problem1814A.cpp) |
+| 307 | 1829 | A | [Link](https://codeforces.com/contest/1829/problem/A) | [Solution](./problem1829A.cpp) |
+| 308 | 1829 | B | [Link](https://codeforces.com/contest/1829/problem/B) | [Solution](./problem1829B.cpp) |
+| 309 | 1831 | A | [Link](https://codeforces.com/contest/1831/problem/A) | [Solution](./problem1831A.cpp) |
+| 310 | 1832 | B | [Link](https://codeforces.com/contest/1832/problem/B) | [Solution](./problem1832B.cpp) |
+| 311 | 1834 | A | [Link](https://codeforces.com/contest/1834/problem/A) | [Solution](./problem1834A.cpp) |
+| 312 | 1837 | A | [Link](https://codeforces.com/contest/1837/problem/A) | [Solution](./problem1837A.cpp) |
+| 313 | 1837 | B | [Link](https://codeforces.com/contest/1837/problem/B) | [Solution](./problem1837B.cpp) |
+| 314 | 1840 | C | [Link](https://codeforces.com/contest/1840/problem/C) | [Solution](./problem1840C.cpp) |
+| 315 | 1845 | A | [Link](https://codeforces.com/contest/1845/problem/A) | [Solution](./problem1845A.cpp) |
+| 316 | 1849 | B | [Link](https://codeforces.com/contest/1849/problem/B) | [Solution](./problem1849B.cpp) |
+| 317 | 1850 | A | [Link](https://codeforces.com/contest/1850/problem/A) | [Solution](./problem1850A.cpp) |
+| 318 | 1850 | B | [Link](https://codeforces.com/contest/1850/problem/B) | [Solution](./problem1850B.cpp) |
+| 319 | 1850 | C | [Link](https://codeforces.com/contest/1850/problem/C) | [Solution](./problem1850C.cpp) |
+| 320 | 1850 | D | [Link](https://codeforces.com/contest/1850/problem/D) | [Solution](./problem1850D.cpp) |
+| 321 | 1850 | F | [Link](https://codeforces.com/contest/1850/problem/F) | [Solution](./problem1850F.cpp) |
+| 322 | 1853 | A | [Link](https://codeforces.com/contest/1853/problem/A) | [Solution](./problem1853A.cpp) |
+| 323 | 1855 | B | [Link](https://codeforces.com/contest/1855/problem/B) | [Solution](./problem1855B.cpp) |
+| 324 | 1856 | B | [Link](https://codeforces.com/contest/1856/problem/B) | [Solution](./problem1856B.cpp) |
+| 325 | 1857 | A | [Link](https://codeforces.com/contest/1857/problem/A) | [Solution](./problem1857A.cpp) |
+| 326 | 1857 | F | [Link](https://codeforces.com/contest/1857/problem/F) | [Solution](./problem1857F.cpp) |
+| 327 | 1858 | A | [Link](https://codeforces.com/contest/1858/problem/A) | [Solution](./problem1858A.cpp) |
+| 328 | 1859 | A | [Link](https://codeforces.com/contest/1859/problem/A) | [Solution](./problem1859A.cpp) |
+| 329 | 1859 | B | [Link](https://codeforces.com/contest/1859/problem/B) | [Solution](./problem1859B.cpp) |
+| 330 | 1862 | A | [Link](https://codeforces.com/contest/1862/problem/A) | [Solution](./problem1862A.cpp) |
+| 331 | 1862 | B | [Link](https://codeforces.com/contest/1862/problem/B) | [Solution](./problem1862B.cpp) |
+| 332 | 1866 | A | [Link](https://codeforces.com/contest/1866/problem/A) | [Solution](./problem1866A.cpp) |
+| 333 | 1873 | A | [Link](https://codeforces.com/contest/1873/problem/A) | [Solution](./problem1873A.cpp) |
+| 334 | 1873 | B | [Link](https://codeforces.com/contest/1873/problem/B) | [Solution](./problem1873B.cpp) |
+| 335 | 1873 | C | [Link](https://codeforces.com/contest/1873/problem/C) | [Solution](./problem1873C.cpp) |
+| 336 | 1873 | E | [Link](https://codeforces.com/contest/1873/problem/E) | [Solution](./problem1873E.cpp) |
+| 337 | 1877 | A | [Link](https://codeforces.com/contest/1877/problem/A) | [Solution](./problem1877A.cpp) |
+| 338 | 1878 | C | [Link](https://codeforces.com/contest/1878/problem/C) | [Solution](./problem1878C.cpp) |
+| 339 | 1881 | A | [Link](https://codeforces.com/contest/1881/problem/A) | [Solution](./problem1881A.cpp) |
+| 340 | 1883 | B | [Link](https://codeforces.com/contest/1883/problem/B) | [Solution](./problem1883B.cpp) |
+| 341 | 1883 | C | [Link](https://codeforces.com/contest/1883/problem/C) | [Solution](./problem1883C.cpp) |
+| 342 | 1890 | A | [Link](https://codeforces.com/contest/1890/problem/A) | [Solution](./problem1890A.cpp) |
+| 343 | 1896 | A | [Link](https://codeforces.com/contest/1896/problem/A) | [Solution](./problem1896A.cpp) |
+| 344 | 1899 | A | [Link](https://codeforces.com/contest/1899/problem/A) | [Solution](./problem1899A.cpp) |
+| 345 | 1900 | A | [Link](https://codeforces.com/contest/1900/problem/A) | [Solution](./problem1900A.cpp) |
+| 346 | 1901 | A | [Link](https://codeforces.com/contest/1901/problem/A) | [Solution](./problem1901A.cpp) |
+| 347 | 1903 | A | [Link](https://codeforces.com/contest/1903/problem/A) | [Solution](./problem1903A.cpp) |
+| 348 | 1913 | B | [Link](https://codeforces.com/contest/1913/problem/B) | [Solution](./problem1913B.cpp) |
+| 349 | 1914 | E1 | [Link](https://codeforces.com/contest/1914/problem/E1) | [Solution](./problem1914E1.cpp) |
+| 350 | 1914 | E2 | [Link](https://codeforces.com/contest/1914/problem/E2) | [Solution](./problem1914E2.cpp) |
+| 351 | 1915 | A | [Link](https://codeforces.com/contest/1915/problem/A) | [Solution](./problem1915A.cpp) |
+| 352 | 1915 | B | [Link](https://codeforces.com/contest/1915/problem/B) | [Solution](./problem1915B.cpp) |
+| 353 | 1916 | B | [Link](https://codeforces.com/contest/1916/problem/B) | [Solution](./problem1916B.cpp) |
+| 354 | 1917 | B | [Link](https://codeforces.com/contest/1917/problem/B) | [Solution](./problem1917B.cpp) |
+| 355 | 1921 | A | [Link](https://codeforces.com/contest/1921/problem/A) | [Solution](./problem1921A.cpp) |
+| 356 | 1926 | A | [Link](https://codeforces.com/contest/1926/problem/A) | [Solution](./problem1926A.cpp) |
+| 357 | 1926 | C | [Link](https://codeforces.com/contest/1926/problem/C) | [Solution](./problem1926C.cpp) |
+| 358 | 1927 | A | [Link](https://codeforces.com/contest/1927/problem/A) | [Solution](./problem1927A.cpp) |
+| 359 | 1927 | D | [Link](https://codeforces.com/contest/1927/problem/D) | [Solution](./problem1927D.cpp) |
+| 360 | 1931 | D | [Link](https://codeforces.com/contest/1931/problem/D) | [Solution](./problem1931D.cpp) |
+| 361 | 1934 | B | [Link](https://codeforces.com/contest/1934/problem/B) | [Solution](./problem1934B.cpp) |
+| 362 | 1941 | A | [Link](https://codeforces.com/contest/1941/problem/A) | [Solution](./problem1941A.cpp) |
+| 363 | 1941 | C | [Link](https://codeforces.com/contest/1941/problem/C) | [Solution](./problem1941C.cpp) |
+| 364 | 1948 | A | [Link](https://codeforces.com/contest/1948/problem/A) | [Solution](./problem1948A.cpp) |
+| 365 | 1950 | B | [Link](https://codeforces.com/contest/1950/problem/B) | [Solution](./problem1950B.cpp) |
+| 366 | 1950 | C | [Link](https://codeforces.com/contest/1950/problem/C) | [Solution](./problem1950C.cpp) |
+| 367 | 1954 | A | [Link](https://codeforces.com/contest/1954/problem/A) | [Solution](./problem1954A.cpp) |
+| 368 | 1955 | A | [Link](https://codeforces.com/contest/1955/problem/A) | [Solution](./problem1955A.cpp) |
+| 369 | 1971 | A | [Link](https://codeforces.com/contest/1971/problem/A) | [Solution](./problem1971A.cpp) |
+| 370 | 1971 | B | [Link](https://codeforces.com/contest/1971/problem/B) | [Solution](./problem1971B.cpp) |
+| 371 | 1971 | G | [Link](https://codeforces.com/contest/1971/problem/G) | [Solution](./problem1971G.cpp) |
+| 372 | 1980 | A | [Link](https://codeforces.com/contest/1980/problem/A) | [Solution](./problem1980A.cpp) |
+| 373 | 1985 | A | [Link](https://codeforces.com/contest/1985/problem/A) | [Solution](./problem1985A.cpp) |
+| 374 | 1985 | B | [Link](https://codeforces.com/contest/1985/problem/B) | [Solution](./problem1985B.cpp) |
+| 375 | 1985 | C | [Link](https://codeforces.com/contest/1985/problem/C) | [Solution](./problem1985C.cpp) |
+| 376 | 1985 | D | [Link](https://codeforces.com/contest/1985/problem/D) | [Solution](./problem1985D.cpp) |
+| 377 | 1986 | A | [Link](https://codeforces.com/contest/1986/problem/A) | [Solution](./problem1986A.cpp) |
+| 378 | 1992 | A | [Link](https://codeforces.com/contest/1992/problem/A) | [Solution](./problem1992A.cpp) |
+| 379 | 1996 | A | [Link](https://codeforces.com/contest/1996/problem/A) | [Solution](./problem1996A.cpp) |
+| 380 | 1998 | B | [Link](https://codeforces.com/contest/1998/problem/B) | [Solution](./problem1998B.cpp) |
+| 381 | 1999 | B | [Link](https://codeforces.com/contest/1999/problem/B) | [Solution](./problem1999B.cpp) |
+| 382 | 2000 | A | [Link](https://codeforces.com/contest/2000/problem/A) | [Solution](./problem2000A.cpp) |
+| 383 | 2000 | B | [Link](https://codeforces.com/contest/2000/problem/B) | [Solution](./problem2000B.cpp) |
+| 384 | 2009 | A | [Link](https://codeforces.com/contest/2009/problem/A) | [Solution](./problem2009A.cpp) |
+| 385 | 2009 | B | [Link](https://codeforces.com/contest/2009/problem/B) | [Solution](./problem2009B.cpp) |
+| 386 | 2014 | A | [Link](https://codeforces.com/contest/2014/problem/A) | [Solution](./problem2014A.cpp) |
+| 387 | 2014 | D | [Link](https://codeforces.com/contest/2014/problem/D) | [Solution](./problem2014D.cpp) |
+| 388 | 2021 | B | [Link](https://codeforces.com/contest/2021/problem/B) | [Solution](./problem2021B.cpp) |
+| 389 | 2026 | C | [Link](https://codeforces.com/contest/2026/problem/C) | [Solution](./problem2026C.cpp) |
+| 390 | 2044 | A | [Link](https://codeforces.com/contest/2044/problem/A) | [Solution](./problem2044A.cpp) |
+| 391 | 2044 | B | [Link](https://codeforces.com/contest/2044/problem/B) | [Solution](./problem2044B.cpp) |
+| 392 | 2044 | C | [Link](https://codeforces.com/contest/2044/problem/C) | [Solution](./problem2044C.cpp) |
+| 393 | 2051 | C | [Link](https://codeforces.com/contest/2051/problem/C) | [Solution](./problem2051C.cpp) |
+| 394 | 2057 | H | [Link](https://codeforces.com/contest/2057/problem/H) | [Solution](./problem2057H.cpp) |
+| 395 | 2065 | A | [Link](https://codeforces.com/contest/2065/problem/A) | [Solution](./problem2065A.cpp) |
+| 396 | 2074 | A | [Link](https://codeforces.com/contest/2074/problem/A) | [Solution](./problem2074A.cpp) |
+| 397 | 2091 | C | [Link](https://codeforces.com/contest/2091/problem/C) | [Solution](./problem2091C.cpp) |
+| 398 | 2093 | E | [Link](https://codeforces.com/contest/2093/problem/E) | [Solution](./problem2093E.cpp) |
+| 399 | 2094 | A | [Link](https://codeforces.com/contest/2094/problem/A) | [Solution](./problem2094A.cpp) |
+| 400 | 2098 | A | [Link](https://codeforces.com/contest/2098/problem/A) | [Solution](./problem2098A.cpp) |
+| 401 | 2098 | B | [Link](https://codeforces.com/contest/2098/problem/B) | [Solution](./problem2098B.cpp) |
+| 402 | 2114 | A | [Link](https://codeforces.com/contest/2114/problem/A) | [Solution](./problem2114A.cpp) |
+| 403 | 2117 | A | [Link](https://codeforces.com/contest/2117/problem/A) | [Solution](./problem2117A.cpp) |
+| 404 | 2125 | A | [Link](https://codeforces.com/contest/2125/problem/A) | [Solution](./problem2125A.cpp) |
+| 405 | 2126 | A | [Link](https://codeforces.com/contest/2126/problem/A) | [Solution](./problem2126A.cpp) |
+| 406 | 2130 | A | [Link](https://codeforces.com/contest/2130/problem/A) | [Solution](./problem2130A.cpp) |
+| 407 | 2134 | B | [Link](https://codeforces.com/contest/2134/problem/B) | [Solution](./problem2134B.cpp) |
+| 408 | 2134 | C | [Link](https://codeforces.com/contest/2134/problem/C) | [Solution](./problem2134C.cpp) |
+| 409 | 2137 | A | [Link](https://codeforces.com/contest/2137/problem/A) | [Solution](./problem2137A.cpp) |
+| 410 | 2137 | B | [Link](https://codeforces.com/contest/2137/problem/B) | [Solution](./problem2137B.cpp) |
+| 411 | 2139 | A | [Link](https://codeforces.com/contest/2139/problem/A) | [Solution](./problem2139A.cpp) |
+| 412 | 2145 | A | [Link](https://codeforces.com/contest/2145/problem/A) | [Solution](./problem2145A.cpp) |
+| 413 | 2145 | C | [Link](https://codeforces.com/contest/2145/problem/C) | [Solution](./problem2145C.cpp) |
+| 414 | 2148 | A | [Link](https://codeforces.com/contest/2148/problem/A) | [Solution](./problem2148A.cpp) |
+| 415 | 2148 | C | [Link](https://codeforces.com/contest/2148/problem/C) | [Solution](./problem2148C.cpp) |
+| 416 | 2149 | A | [Link](https://codeforces.com/contest/2149/problem/A) | [Solution](./problem2149A.cpp) |
+| 417 | 2157 | A | [Link](https://codeforces.com/contest/2157/problem/A) | [Solution](./problem2157A.cpp) |
+| 418 | 2157 | B | [Link](https://codeforces.com/contest/2157/problem/B) | [Solution](./problem2157B.cpp) |
+| 419 | 2158 | A | [Link](https://codeforces.com/contest/2158/problem/A) | [Solution](./problem2158A.cpp) |
+| 420 | 2158 | B | [Link](https://codeforces.com/contest/2158/problem/B) | [Solution](./problem2158B.cpp) |
+| 421 | 2161 | A | [Link](https://codeforces.com/contest/2161/problem/A) | [Solution](./problem2161A.cpp) |
+| 422 | 2162 | A | [Link](https://codeforces.com/contest/2162/problem/A) | [Solution](./problem2162A.cpp) |
+| 423 | 2162 | B | [Link](https://codeforces.com/contest/2162/problem/B) | [Solution](./problem2162B.cpp) |
+| 424 | 2163 | A | [Link](https://codeforces.com/contest/2163/problem/A) | [Solution](./problem2163A.cpp) |
+| 425 | 2164 | A | [Link](https://codeforces.com/contest/2164/problem/A) | [Solution](./problem2164A.cpp) |
+| 426 | 2164 | B | [Link](https://codeforces.com/contest/2164/problem/B) | [Solution](./problem2164B.cpp) |
+| 427 | 2166 | A | [Link](https://codeforces.com/contest/2166/problem/A) | [Solution](./problem2166A.cpp) |
+| 428 | 2166 | B | [Link](https://codeforces.com/contest/2166/problem/B) | [Solution](./problem2166B.cpp) |
+| 429 | 2166 | C | [Link](https://codeforces.com/contest/2166/problem/C) | [Solution](./problem2166C.cpp) |
+| 430 | 2167 | B | [Link](https://codeforces.com/contest/2167/problem/B) | [Solution](./problem2167B.cpp) |
+| 431 | 2167 | C | [Link](https://codeforces.com/contest/2167/problem/C) | [Solution](./problem2167C.cpp) |
+| 432 | 2170 | A | [Link](https://codeforces.com/contest/2170/problem/A) | [Solution](./problem2170A.cpp) |
+| 433 | 2170 | B | [Link](https://codeforces.com/contest/2170/problem/B) | [Solution](./problem2170B.cpp) |
+| 434 | 2171 | A | [Link](https://codeforces.com/contest/2171/problem/A) | [Solution](./problem2171A.cpp) |
+| 435 | 2171 | B | [Link](https://codeforces.com/contest/2171/problem/B) | [Solution](./problem2171B.cpp) |
+| 436 | 2171 | C1 | [Link](https://codeforces.com/contest/2171/problem/C1) | [Solution](./problem2171C1.cpp) |
+| 437 | 2176 | C | [Link](https://codeforces.com/contest/2176/problem/C) | [Solution](./problem2176C.cpp) |
+| 438 | 2178 | A | [Link](https://codeforces.com/contest/2178/problem/A) | [Solution](./problem2178A.cpp) |
+| 439 | 2178 | B | [Link](https://codeforces.com/contest/2178/problem/B) | [Solution](./problem2178B.cpp) |
+| 440 | 2178 | C | [Link](https://codeforces.com/contest/2178/problem/C) | [Solution](./problem2178C.cpp) |
+| 441 | 2179 | A | [Link](https://codeforces.com/contest/2179/problem/A) | [Solution](./problem2179A.cpp) |
+| 442 | 2179 | B | [Link](https://codeforces.com/contest/2179/problem/B) | [Solution](./problem2179B.cpp) |
+| 443 | 2180 | A | [Link](https://codeforces.com/contest/2180/problem/A) | [Solution](./problem2180A.cpp) |
+| 444 | 2181 | A | [Link](https://codeforces.com/contest/2181/problem/A) | [Solution](./problem2181A.cpp) |
+| 445 | 2181 | B | [Link](https://codeforces.com/contest/2181/problem/B) | [Solution](./problem2181B.cpp) |
+| 446 | 2181 | D | [Link](https://codeforces.com/contest/2181/problem/D) | [Solution](./problem2181D.cpp) |
+| 447 | 2181 | F | [Link](https://codeforces.com/contest/2181/problem/F) | [Solution](./problem2181F.cpp) |
+| 448 | 2181 | G | [Link](https://codeforces.com/contest/2181/problem/G) | [Solution](./problem2181G.cpp) |
+| 449 | 2181 | H | [Link](https://codeforces.com/contest/2181/problem/H) | [Solution](./problem2181H.cpp) |
+| 450 | 2181 | J | [Link](https://codeforces.com/contest/2181/problem/J) | [Solution](./problem2181J.cpp) |
+| 451 | 2181 | M | [Link](https://codeforces.com/contest/2181/problem/M) | [Solution](./problem2181M.cpp) |
+| 452 | 2182 | A | [Link](https://codeforces.com/contest/2182/problem/A) | [Solution](./problem2182A.cpp) |
+| 453 | 2182 | B | [Link](https://codeforces.com/contest/2182/problem/B) | [Solution](./problem2182B.cpp) |
+| 454 | 2182 | C | [Link](https://codeforces.com/contest/2182/problem/C) | [Solution](./problem2182C.cpp) |
+| 455 | 2183 | A | [Link](https://codeforces.com/contest/2183/problem/A) | [Solution](./problem2183A.cpp) |
+| 456 | 2183 | B | [Link](https://codeforces.com/contest/2183/problem/B) | [Solution](./problem2183B.cpp) |
+| 457 | 2184 | A | [Link](https://codeforces.com/contest/2184/problem/A) | [Solution](./problem2184A.cpp) |
+| 458 | 2184 | B | [Link](https://codeforces.com/contest/2184/problem/B) | [Solution](./problem2184B.cpp) |
+| 459 | 2185 | A | [Link](https://codeforces.com/contest/2185/problem/A) | [Solution](./problem2185A.cpp) |
+| 460 | 2185 | B | [Link](https://codeforces.com/contest/2185/problem/B) | [Solution](./problem2185B.cpp) |
+| 461 | 2185 | C | [Link](https://codeforces.com/contest/2185/problem/C) | [Solution](./problem2185C.cpp) |
+| 462 | 2185 | D | [Link](https://codeforces.com/contest/2185/problem/D) | [Solution](./problem2185D.cpp) |
+| 463 | 2187 | A | [Link](https://codeforces.com/contest/2187/problem/A) | [Solution](./problem2187A.cpp) |
+| 464 | 2188 | A | [Link](https://codeforces.com/contest/2188/problem/A) | [Solution](./problem2188A.cpp) |
+| 465 | 2188 | B | [Link](https://codeforces.com/contest/2188/problem/B) | [Solution](./problem2188B.cpp) |
+| 466 | 2188 | C | [Link](https://codeforces.com/contest/2188/problem/C) | [Solution](./problem2188C.cpp) |
+| 467 | 2191 | A | [Link](https://codeforces.com/contest/2191/problem/A) | [Solution](./problem2191A.cpp) |
+| 468 | 2191 | B | [Link](https://codeforces.com/contest/2191/problem/B) | [Solution](./problem2191B.cpp) |
+| 469 | 2193 | A | [Link](https://codeforces.com/contest/2193/problem/A) | [Solution](./problem2193A.cpp) |
+| 470 | 2193 | B | [Link](https://codeforces.com/contest/2193/problem/B) | [Solution](./problem2193B.cpp) |
+| 471 | 2193 | C | [Link](https://codeforces.com/contest/2193/problem/C) | [Solution](./problem2193C.cpp) |
+| 472 | 2193 | D | [Link](https://codeforces.com/contest/2193/problem/D) | [Solution](./problem2193D.cpp) |
+| 473 | 2194 | A | [Link](https://codeforces.com/contest/2194/problem/A) | [Solution](./problem2194A.cpp) |
+| 474 | 2194 | B | [Link](https://codeforces.com/contest/2194/problem/B) | [Solution](./problem2194B.cpp) |
+| 475 | 2195 | A | [Link](https://codeforces.com/contest/2195/problem/A) | [Solution](./problem2195A.cpp) |
+| 476 | 2195 | B | [Link](https://codeforces.com/contest/2195/problem/B) | [Solution](./problem2195B.cpp) |
+| 477 | 2195 | C | [Link](https://codeforces.com/contest/2195/problem/C) | [Solution](./problem2195C.cpp) |
+| 478 | 2200 | A | [Link](https://codeforces.com/contest/2200/problem/A) | [Solution](./problem2200A.cpp) |
+| 479 | 2200 | B | [Link](https://codeforces.com/contest/2200/problem/B) | [Solution](./problem2200B.cpp) |
+| 480 | 2200 | C | [Link](https://codeforces.com/contest/2200/problem/C) | [Solution](./problem2200C.cpp) |
+| 481 | 2202 | A | [Link](https://codeforces.com/contest/2202/problem/A) | [Solution](./problem2202A.cpp) |
+| 482 | 2202 | B | [Link](https://codeforces.com/contest/2202/problem/B) | [Solution](./problem2202B.cpp) |
+| 483 | 2202 | C1 | [Link](https://codeforces.com/contest/2202/problem/C1) | [Solution](./problem2202C1.cpp) |
+| 484 | 2203 | A | [Link](https://codeforces.com/contest/2203/problem/A) | [Solution](./problem2203A.cpp) |
+| 485 | 2203 | B | [Link](https://codeforces.com/contest/2203/problem/B) | [Solution](./problem2203B.cpp) |
+| 486 | 2205 | A | [Link](https://codeforces.com/contest/2205/problem/A) | [Solution](./problem2205A.cpp) |
+| 487 | 2205 | B | [Link](https://codeforces.com/contest/2205/problem/B) | [Solution](./problem2205B.cpp) |
+| 488 | 2210 | A | [Link](https://codeforces.com/contest/2210/problem/A) | [Solution](./problem2210A.cpp) |
+| 489 | 2211 | A | [Link](https://codeforces.com/contest/2211/problem/A) | [Solution](./problem2211A.cpp) |
+| 490 | 2211 | B | [Link](https://codeforces.com/contest/2211/problem/B) | [Solution](./problem2211B.cpp) |
+| 491 | 2222 | A | [Link](https://codeforces.com/contest/2222/problem/A) | [Solution](./problem2222A.cpp) |
+| 492 | 2222 | B | [Link](https://codeforces.com/contest/2222/problem/B) | [Solution](./problem2222B.cpp) |
+| 493 | 2226 | A | [Link](https://codeforces.com/contest/2226/problem/A) | [Solution](./problem2226A.cpp) |
+| 494 | 2226 | B | [Link](https://codeforces.com/contest/2226/problem/B) | [Solution](./problem2226B.cpp) |
+| 495 | 102267 | B | [Link](https://codeforces.com/contest/102267/problem/B) | [Solution](./problem102267B.cpp) |
+| 496 | 102361 | D | [Link](https://codeforces.com/contest/102361/problem/D) | [Solution](./problem102361D.cpp) |
+| 497 | 103055 | A | [Link](https://codeforces.com/contest/103055/problem/A) | [Solution](./problem103055A.cpp) |
+| 498 | 103373 | B | [Link](https://codeforces.com/contest/103373/problem/B) | [Solution](./problem103373B.cpp) |

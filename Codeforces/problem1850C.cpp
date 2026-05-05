@@ -1,3 +1,8 @@
+/*
+ * Problem: 1850C
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1850/problem/C
+ */
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

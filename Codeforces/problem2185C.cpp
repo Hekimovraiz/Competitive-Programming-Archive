@@ -1,3 +1,8 @@
+/*
+ * Problem: 2185C
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2185/problem/C
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

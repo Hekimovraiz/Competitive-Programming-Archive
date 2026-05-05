@@ -1,3 +1,8 @@
+/*
+ * Problem: 2202C1
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2202/problem/C1
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

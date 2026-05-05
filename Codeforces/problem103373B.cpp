@@ -1,3 +1,8 @@
+/*
+ * Problem: 103373B
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/103373/problem/B
+ */
 #include <bits/stdc++.h>
 #define Lek_Raiz ios_base::sync_with_stdio(0); cin.tie(nullptr); cout.tie(nullptr);
 using namespace std;

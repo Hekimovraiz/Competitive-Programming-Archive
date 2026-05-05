@@ -1,3 +1,8 @@
+/*
+ * Problem: 1497C2
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1497/problem/C2
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

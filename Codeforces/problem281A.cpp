@@ -1,3 +1,8 @@
+/*
+ * Problem: 281A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/281/problem/A
+ */
 #include <bits/stdc++.h>
 #define int long long
 using namespace std;

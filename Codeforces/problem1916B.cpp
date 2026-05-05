@@ -1,3 +1,8 @@
+/*
+ * Problem: 1916B
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1916/problem/B
+ */
 #pragma GCC optimize("O3")
 #include <bits/stdc++.h>
  

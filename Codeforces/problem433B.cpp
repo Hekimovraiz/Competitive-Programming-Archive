@@ -1,3 +1,8 @@
+/*
+ * Problem: 433B
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/433/problem/B
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

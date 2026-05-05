@@ -1,3 +1,8 @@
+/*
+ * Problem: 2180A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/2180/problem/A
+ */
 #include <bits/stdc++.h>
 using namespace std;
 int main() {

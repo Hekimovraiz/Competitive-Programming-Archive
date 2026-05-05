@@ -1,3 +1,8 @@
+/*
+ * Problem: 1857F
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1857/problem/F
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

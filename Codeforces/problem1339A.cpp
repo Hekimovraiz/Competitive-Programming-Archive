@@ -1,3 +1,8 @@
+/*
+ * Problem: 1339A
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1339/problem/A
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

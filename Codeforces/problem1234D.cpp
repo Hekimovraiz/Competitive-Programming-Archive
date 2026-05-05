@@ -1,3 +1,8 @@
+/*
+ * Problem: 1234D
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1234/problem/D
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

@@ -1,3 +1,8 @@
+/*
+ * Problem: 1840C
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1840/problem/C
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

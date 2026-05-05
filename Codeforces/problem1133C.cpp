@@ -1,3 +1,8 @@
+/*
+ * Problem: 1133C
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1133/problem/C
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>

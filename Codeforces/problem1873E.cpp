@@ -1,3 +1,8 @@
+/*
+ * Problem: 1873E
+ * Platform: Codeforces
+ * Link: https://codeforces.com/contest/1873/problem/E
+ */
 // Author: Raiz
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
